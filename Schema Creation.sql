@@ -6,6 +6,11 @@ OPEN SCHEMA NIKOLAS_POLLIN;
 -- Routentypen, sprich Fahrzeugarten, die über route_type referenziert werden, gehören Fahrzeug-Dimension an
 CREATE TABLE Dim_Trips (
     trip_id INTEGER PRIMARY KEY,
+    trip_headsign VARCHAR(100),
+    trip_short_name VARCHAR(50),
+    direction VARCHAR(10), -- Enum Werte VORWÄRTS, RÜCKWÄRTS
+    wheelchair_accessible BOOLEAN,
+    bikes_allowed BOOLEAN,
 
     -- Linie -> Hierarchiestufe
     route_short_name VARCHAR(50),
@@ -15,14 +20,8 @@ CREATE TABLE Dim_Trips (
     -- ///
 
     -- Betreiber -> Hierarchiestufe
-    agency_name VARCHAR(100),
+    agency_name VARCHAR(100)
     -- ///
-
-    trip_headsign VARCHAR(100),
-    trip_short_name VARCHAR(50),
-    direction VARCHAR(10), -- Enum Werte VORWÄRTS, RÜCKWÄRTS
-    wheelchair_accessible BOOLEAN,
-    bikes_allowed BOOLEAN
 );
 
 
@@ -80,10 +79,11 @@ CREATE TABLE Dim_Municipalities (
 
 CREATE TABLE Dim_Population (
     population_group_id INTEGER PRIMARY KEY,
-    gender VARCHAR(8),
+    gender VARCHAR(8), -- Männlich, Weiblich
     age_group_code VARCHAR(10), -- bspw. 00_TO_17
     age_group_desc VARCHAR(30),
-    min_age INTEGER, -- Für einfachere Queries
+    -- Für einfachere Queries
+    min_age INTEGER,
     max_age INTEGER
 );
 
@@ -117,5 +117,6 @@ CREATE TABLE Fact_Stops (
     departure_time TIMESTAMP,
     duration_of_stay_sec INTEGER,
     duration_until_next_stop_sec INTEGER,
+    -- PK enthält stop_sequence wegen bspw. Kreisfahrten und ähnlichem
     PRIMARY KEY (station_id, trip_id, "date", stop_sequence)
 );
