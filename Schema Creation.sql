@@ -15,7 +15,6 @@ CREATE TABLE Dim_Trips (
     -- Linie -> Hierarchiestufe
     route_short_name VARCHAR(50),
     route_long_name VARCHAR(100),
-    route_desc VARCHAR(1000),
     transport_mode VARCHAR(20),
     -- ///
 
@@ -37,10 +36,9 @@ CREATE TABLE Dim_Stations (
     station_id INTEGER PRIMARY KEY, -- Surrogatschlüssel
     municipality_code INTEGER REFERENCES Dim_Municipalities(municipality_code),
     dh_id VARCHAR(30), -- Deutschlandweite ID der Haltestellen
-    short_identification VARCHAR(30), -- stop_code in stops.txt
     name VARCHAR(80), -- Name der Haltestelle
     description VARCHAR(100), -- Zusätzliche Informationen zur Haltestelle
-    type VARCHAR(20),
+    type VARCHAR(40),
     latitude DOUBLE,
     longitude DOUBLE,
     wheelchair_accessible BOOLEAN,
@@ -113,10 +111,85 @@ CREATE TABLE Fact_Stops (
     stop_sequence INTEGER, -- Position der Haltestelle in der konkreten Fahrt
     no_drop_off BOOLEAN,
     no_pick_up BOOLEAN,
-    arrival_time TIMESTAMP,
-    departure_time TIMESTAMP,
+    arrival_time_sec INTEGER, -- Zeit in Sekunden seit Mitternacht
+    departure_time_sec INTEGER,
     duration_of_stay_sec INTEGER,
     duration_until_next_stop_sec INTEGER,
     -- PK enthält stop_sequence wegen bspw. Kreisfahrten und ähnlichem
     PRIMARY KEY (station_id, trip_id, "date", stop_sequence)
 );
+
+
+
+-- Beispielsdatensätze
+
+-- Fahrt, Linie, Betreiber - Dimensionstabelle
+
+INSERT INTO DIM_TRIPS VALUES (1, 'Nordhorn Bahnhof', '039101', 'Vorwärts',false, true,
+                              '6018', 'Uni-Express','Bus',
+                              'Stadtverkehr Bingen');
+
+INSERT INTO DIM_TRIPS VALUES (2, 'Mainburg; Griesplatz/Zentrum', '077191', 'Rückwärts',true, false,
+                              '9012', 'Tram 8','Stadtbahn',
+                              'RVG Regionalverkehr Gera');
+
+
+-- Fahrzeugart - Dimensionstabelle
+
+INSERT INTO DIM_VEHICLE_TYPE VALUES (1, 'PKW', true);
+INSERT INTO DIM_VEHICLE_TYPE VALUES (2, 'Krafträder', false);
+
+
+-- Gemeinde, Raumtyp, Kreis, Bundesland - Dimensionstabelle
+
+INSERT INTO DIM_MUNICIPALITIES VALUES (09184114, 'Brunnthal', 'Kreisangehörige Gemeinde', 37.95,
+                                       09184000, 'München',
+                                       09, 'Bayern',
+                                       2, 'teilweise städtisch', 1, 'sehr zentral',
+                                       55, 'Kleinstädtischer, dörflicher Raum', 40, 'Kleine Kleinstadt');
+
+INSERT INTO DIM_MUNICIPALITIES VALUES (07232296, 'Prüm, Stadt', 'Stadt', 22.86,
+                                       07232000, 'Eifelkreis Bitburg-Prüm',
+                                       07, 'Rheinland-Pfalz',
+                                       3, 'überwiegend ländlich', 3, 'peripher',
+                                       55, 'Kleinstädtischer, dörflicher Raum', 40, 'Kleine Kleinstadt');
+
+
+-- Haltestelle - Dimensionstabelle
+
+INSERT INTO DIM_STATIONS VALUES (1, 09184114, 'de:09184:2304:0:2',
+                                 'Brunnthal, Abzw. Waldbrunn', 'Bushalt Werner-Seelenbinder-Straße hinter Prignitzstraße', 'HALTESTELLE/BAHNHSTEIG',
+                                 48.042787000000,11.670418000000, false, '');
+
+INSERT INTO DIM_STATIONS VALUES (2, 07232296, 'de:07137:030432:01',
+                                 'Kottenheim Keltenstraße', 'S-Bahnsteig Gleis 1', 'BAHNHOF',
+                                 50.344424000000,7.255198000000, true, '5');
+
+
+-- Bevölkerung - Dimensionstabelle
+
+INSERT INTO DIM_POPULATION VALUES (1, 'MÄNNLICH', '30_TO_34', '30 bis unter 35 Jahre', 30, 34);
+INSERT INTO DIM_POPULATION VALUES (2, 'WEIBLICH', '55_TO_59', '55 bis unter 60 Jahre', 55, 59);
+
+
+-- Fahrzeugbestand - Faktentabelle
+
+INSERT INTO FACT_REGISTERED_VEHICLES VALUES (07232296, 1, '2025-01-01', 542);
+INSERT INTO FACT_REGISTERED_VEHICLES VALUES (09184114, 2, '2025-01-01', 596);
+
+
+-- Zensus - Faktentabelle
+
+INSERT INTO FACT_CENSUS VALUES (07232296, 1, '2024-12-31', 213);
+INSERT INTO FACT_CENSUS VALUES (07232296, 2, '2024-12-31', 226);
+
+
+-- ÖPNV-Halte - Faktentabelle
+
+INSERT INTO FACT_STOPS VALUES (1, 1, '2026-08-12', 3,
+                               false, false, 29700, 29760,
+                               60, 120);
+
+INSERT INTO FACT_STOPS VALUES (2, 2, '2026-09-06', 12,
+                               false, true, 70200, 70200,
+                               0, NULL);
