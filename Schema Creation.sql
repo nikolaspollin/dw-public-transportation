@@ -193,3 +193,23 @@ INSERT INTO FACT_STOPS VALUES (1, 1, '2026-08-12', 3,
 INSERT INTO FACT_STOPS VALUES (2, 2, '2026-09-06', 12,
                                false, true, 70200, 70200,
                                0, NULL);
+
+
+-- Snowflake vs Star Schema
+
+/*
+    Die einzigen Dimensionen, die davon betroffen wären, sind die, die mehrere Hierarchiestufen haben.
+    Das sind also Tag bzw. Zeit (wofür es keine eigene Tabelle gibt), Haltestelle bzw. Ort & Fahrt bzw. Fortbewegungsmittel.
+
+    Man müsste die Gemeinde Tabelle auftrennen in Gemeinde selbst, Raumtyp, Kreis und Bundesland, wobei Kreis einen Fremdschlüssel
+    auf Bundesland hätte und Gemeinde einen Fremdschlüssel auf Raumtyp und Kreis. Die Haltestelle Tabelle würde weiterhin eigenständig
+    bleiben mit Fremdschlüssel auf Gemeinde.
+    Da weder Kreis noch Bundesland viele Attribute beinhalten, lohnt sich der Join-Aufwand nicht (außerdem sind die Attribute sehr fest
+    und werden sich vermutlich nicht ändern → kein Update-Aufwand).
+    Da es auch verhältnismäßig wenige Gemeinden gibt (ca 11 000), ist die Redundanz des denormalisiertem Raumtypen eher gering. Es lohnt
+    sich vermutlich nicht, diese Informationen wieder extra auszulagern und sie an einen Join zu "binden".
+
+    Auch die Fahrten Tabelle müsste man in Fahrt, Linie & Betreiber aufteilen.
+    Betreiber enthält nur minimale, sich nicht ändernde, Informationen, bei denen Normalisierung keinen Sinn macht.
+    Auch bei den Linien gibt sich, wegen der wenigen Attribute, kein direkter Grund zu normalisieren.
+ */
