@@ -31,6 +31,36 @@ Auswirkungen des ÖPNV Angebots im ländlichen Raum
 🖊️
 
 ## Forms of Heterogeneity
+
+### Vergleich GTFS Daten mit Raumgliederung
+
+- Technisch
+  - Beide werden als fertig gepackte Datenpakete auf einem Webserver angeboten (File-Download).
+  - GTFS Daten werden im CSV Format in TXT Files gezippt verteilt, während die Raumgliederungsdaten in einem Excel File gespeichert sind.
+- Datenmodell
+  - GTFS CSV Files sind Flat-Files ohne feste Struktur (bis auf den Header).
+  - Raumgliederungsdaten sind in Excel enthalten und zählt daher eher als Spreadsheet-Modell.
+- Syntaktisch
+  - GTFS Daten speichern Gleitkommazahlen in amerikanischer Notation mit einem Punkt. Die Raumgliederung nutzt dafür ein Komma.
+- Semantisch
+  - Die GTFS Daten enthalten in dem erweiterten Haltestellen-Datensatz die amtlichen Gemeindeschlüssel (Referenz zur Gemeinde) als *Municipality Code*.
+  - Der Raumgliederungs-Datensatz speichert diesen Wert als *Gemeinden-Kennziffer*.
+- Schematisch
+  - Sowohl die GTFS Daten als auch die Raumgliederung speichern einen geografischen Kontext.
+  - GTFS speichert in den Hauptdaten zu einer Haltestelle nur die Koordinaten, nicht aber die Gemeindezugehörigkeit. Für die Zuordnung braucht man die erweiterten Haltestellen-Daten.
+  - Die Raumgliederung speichert die geografische Zuordnung zu einer Gemeinde direkt als amtlichen Gemeindeschlüssel
+
+### Vergleich der obigen mit den Fahrzeugzulassungen
+
+- Technisch
+  - Wird genauso wie die Raumgliederung als Excel File-Download angeboten (da Amt als Quelle).
+- Datenmodell
+  - Wird genau wie Raumgliederung als Excel gespeichert (Spreadsheet-Modell).
+- Syntaktisch
+  - Tausender Bereiche werden mit der deutschen Notation, also dem Punkt, getrennt.
+- Semantisch
+  - Amtlicher Gemeindeschlüssel ist zwar enthalten, wird allerdings zusammen mit Namen der Gemeinde in einem Feld kombiniert gespeichert (muss also aufgetrennt werden).
+
 *Which forms of heterogeneity exist between two of your data sources? Write at least one example. (Ex. Sheet 3, Exercise 1.4)*
 
 * 🖊️ 

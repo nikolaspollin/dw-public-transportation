@@ -3,7 +3,6 @@
 OPEN SCHEMA NIKOLAS_POLLIN;
 
 -- Zeiten, die über service_id referenziert werden, gehören separater Dimension an
--- Routentypen, sprich Fahrzeugarten, die über route_type referenziert werden, gehören Fahrzeug-Dimension an
 CREATE TABLE Dim_Trips (
     trip_id INTEGER PRIMARY KEY,
     trip_headsign VARCHAR(100),
