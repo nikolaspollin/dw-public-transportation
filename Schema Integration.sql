@@ -121,5 +121,66 @@ CREATE TABLE Staging_Stops (
     platform_code VARCHAR(30)
 );
 
--- TODO stops.txt schon abgearbeitet, sonst fehlen noch alle restlichen GTFS Haupt-Tables
---  Alle anderen Daten haben schon fertige Tables
+-- stop_headsign ist immer leer, daher ignoriert
+CREATE TABLE Staging_Stop_Times (
+    trip_id INTEGER, -- FK zu trips.txt
+    stop_id VARCHAR(30), -- FK auf stops.txt (enthält DHID)
+    stop_sequence INTEGER, -- Eindeutige Nummerierung eines Halts innerhalb einer Fahrt
+    pickup_type INTEGER,
+    drop_off_type INTEGER,
+    arrival_time VARCHAR(8), -- Zeit in normaler Timestamp Formatierung (z. B. 08:18:30)
+    departure_time VARCHAR(8)
+);
+
+-- block_id & shape_id werden nicht gebraucht, daher ignoriert
+CREATE TABLE Staging_Trips (
+    route_id VARCHAR(60), -- FK auf routes.txt
+    service_id INTEGER, -- FK auf calender.txt
+    trip_id INTEGER,
+    trip_headsign VARCHAR(50),
+    trip_short_name VARCHAR(10),
+    direction_id INTEGER,
+    wheelchair_accessible INTEGER,
+    bikes_allowed INTEGER
+);
+
+-- exact_times sind in frequencies.txt Datensatz insgesamt nicht gesetzt
+CREATE TABLE Staging_Frequencies (
+    trip_id INTEGER, -- FK auf trips.txt
+    start_time VARCHAR(8), -- Zeit in normaler Timestamp Formatierung (z. B. 08:18:30)
+    end_time VARCHAR(8),
+    headway_secs INTEGER
+);
+
+CREATE TABLE Staging_Calender (
+    service_id INTEGER,
+    monday INTEGER,
+    tuesday INTEGER,
+    wednesday INTEGER,
+    thursday INTEGER,
+    friday INTEGER,
+    saturday INTEGER,
+    sunday INTEGER,
+    start_date VARCHAR(8), -- Datum im Format YYYYMMDD
+    end_date VARCHAR(8)
+);
+
+CREATE TABLE Staging_Calender_Dates (
+    service_id INTEGER, -- FK auf calender.txt
+    "date" VARCHAR(8),
+    exception_type INTEGER
+);
+
+-- route_color, route_text_color & route_desc in routes.txt fast nicht gesetzt, daher ignoriert
+CREATE TABLE Staging_Routes (
+    route_id VARCHAR(60),
+    agency_id INTEGER,
+    route_short_name VARCHAR(50),
+    route_long_name VARCHAR(100),
+    route_type INTEGER
+);
+
+CREATE TABLE Staging_Agencies (
+    agency_id INTEGER,
+    agency_name VARCHAR(100)
+);
