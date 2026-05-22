@@ -6,13 +6,6 @@ Data Warehousing | Summer Semester 2026 | Prof. Schildgen | OTH Regensburg
 
 # Challenge 3: Data Modelling and Importing the Data
 
-
-TODO - NOCH OFFEN
-1. Fill out this workbook. You can use a markdown software (e.g., [Zettlr](https://www.zettlr.com/)) for that, or an online editor (e.g., [md2pdf](https://md2pdf.netlify.app/) or Notion).
-4. When you are finished, export your workbook as a PDF and upload it to ELO before the deadline. Open your PDF in a PDF viewer to check whether everything was exported correctly and no code blocks are cut off.
-*You can fill out this workbook in English or German. You need to write everywhere where you see this:* 🖊️
-
-
 ## Title
 
 Auswirkungen des ÖPNV Angebots im ländlichen Raum
@@ -379,11 +372,15 @@ IMPORT INTO Staging_Spatial_Classification (gem2024, gem_name, bez_gem, fl24, kr
 
 
 ## Numbers
-TODO
-* Numbers of rows in your biggest table: 🖊️
-* Size (KB, MB, or GB) of your biggest table: 🖊️
-* Name of that biggest table: 🖊️
-* Total size (KB, MB, or GB) of your schema: 🖊️
+
+#### Tabelle mit meisten Einträgen
+GTFS stop_times.txt bzw. Staging_Stop_Times mit 45.051.926 Zeilen 
+
+#### Tabelle mit größter Speichergröße
+GTFS stop_times.txt bzw. Staging_Stop_Times mit ca 2,7 GB
+
+#### Gesamtgröße des Schemas
+Ca. 3,7 GB
 
 
 ## ME/R Model
