@@ -1,0 +1,1000 @@
+"route_id","service_id","trip_id","trip_headsign","trip_short_name","direction_id","block_id","shape_id","wheelchair_accessible","bikes_allowed"
+"de:nds-noh:noh-31-32:_3",1,3170908305,"Nordhorn Markt","2",0,,278,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908309,"Nordhorn Markt","3142",0,,275,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908306,"Nordhorn Pappelstraße","3142",0,,277,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908353,"Nordhorn Markt","3144",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908308,"Nordhorn Bahnhof","3146",0,,276,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908310,"Nordhorn Markt","3146",0,,275,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908324,"Nordhorn Markt","3148",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908334,"Nordhorn Markt","3150",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908316,"Nordhorn Markt","3152",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908335,"Nordhorn Markt","3154",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908325,"Nordhorn Markt","3156",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908336,"Nordhorn Markt","3158",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908317,"Nordhorn Markt","3160",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908337,"Nordhorn Markt","3162",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908326,"Nordhorn Markt","3164",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908338,"Nordhorn Markt","3166",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908318,"Nordhorn Markt","3168",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908355,"Nordhorn Markt","3170",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908327,"Nordhorn Markt","3174",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908339,"Nordhorn Markt","3176",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908319,"Nordhorn Markt","3178",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908340,"Nordhorn Markt","3180",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908328,"Nordhorn Markt","3182",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908341,"Nordhorn Markt","3184",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908354,"Nordhorn Markt","3188",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908342,"Nordhorn Markt","3190",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908358,"Nordhorn Markt","3194",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908343,"Nordhorn Markt","3196",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908356,"Nordhorn Markt","3198",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908344,"Nordhorn Markt","3200",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908329,"Nordhorn Markt","3202",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908345,"Nordhorn Markt","3204",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908320,"Nordhorn Markt","3206",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908330,"Nordhorn Markt","3212",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908346,"Nordhorn Markt","3214",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908357,"Nordhorn Markt","3216",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908347,"Nordhorn Markt","3218",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908359,"Nordhorn Markt","3220",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908348,"Nordhorn Markt","3222",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908321,"Nordhorn Markt","3224",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908349,"Nordhorn Markt","3226",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908331,"Nordhorn Markt","3228",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908350,"Nordhorn Markt","3230",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908322,"Nordhorn Markt","3232",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908351,"Nordhorn Markt","3234",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908332,"Nordhorn Markt","3236",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908352,"Nordhorn Markt","3238",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908323,"Nordhorn Markt","3240",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908313,"Nordhorn Bahnhof","3242",0,,274,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908333,"Nordhorn Markt","3244",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908312,"Nordhorn Bahnhof","3246",0,,274,0,0
+"de:nds-noh:noh-31-32:_3",4,3170908314,"Nordhorn Bahnhof","3326",0,,274,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908315,"Nordhorn Bahnhof","4",0,,274,0,0
+"de:nds-noh:noh-31-32:_3",4,3170908311,"Nordhorn Markt","6",0,,275,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908361,"Nordhorn Markt","8",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908304,"Nordhorn Markt","8",0,,279,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908307,"Nordhorn Pappelstraße","9138",0,,277,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908360,"Nordhorn Markt","9208",0,,273,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908250,"Nordhorn Irisstraße","1",1,,285,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908300,"Nordhorn Irisstraße","3",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908301,"Nordhorn Irisstraße","3207",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908254,"Nordhorn Irisstraße","3209",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908253,"Nordhorn Irisstraße","3211",1,,282,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908264,"Nordhorn Irisstraße","3213",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908272,"Nordhorn Irisstraße","3215",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908255,"Nordhorn Irisstraße","3217",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908273,"Nordhorn Irisstraße","3219",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908294,"Nordhorn Irisstraße","3221",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908274,"Nordhorn Irisstraße","3223",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908295,"Nordhorn Irisstraße","3227",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908275,"Nordhorn Irisstraße","3229",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908296,"Nordhorn Irisstraße","3233",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908276,"Nordhorn Irisstraße","3235",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908256,"Nordhorn Irisstraße","3237",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908277,"Nordhorn Irisstraße","3239",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908265,"Nordhorn Irisstraße","3241",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908278,"Nordhorn Irisstraße","3243",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908257,"Nordhorn Irisstraße","3245",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908292,"Nordhorn Irisstraße","3247",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908266,"Nordhorn Irisstraße","3251",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908279,"Nordhorn Irisstraße","3253",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908258,"Nordhorn Irisstraße","3255",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908280,"Nordhorn Irisstraße","3257",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908293,"Nordhorn Irisstraße","3259",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908281,"Nordhorn Irisstraße","3261",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908259,"Nordhorn Irisstraße","3263",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908282,"Nordhorn Irisstraße","3265",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908267,"Nordhorn Irisstraße","3267",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908283,"Nordhorn Irisstraße","3269",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908260,"Nordhorn Irisstraße","3271",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908298,"Nordhorn Irisstraße","3275",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908268,"Nordhorn Irisstraße","3277",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908284,"Nordhorn Irisstraße","3279",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908261,"Nordhorn Irisstraße","3281",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908291,"Nordhorn Irisstraße","3283",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908269,"Nordhorn Irisstraße","3287",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908285,"Nordhorn Irisstraße","3289",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908297,"Nordhorn Irisstraße","3291",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908286,"Nordhorn Irisstraße","3293",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908290,"Nordhorn Irisstraße","3297",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908287,"Nordhorn Irisstraße","3299",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908262,"Nordhorn Irisstraße","3303",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908288,"Nordhorn Irisstraße","3305",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908270,"Nordhorn Irisstraße","3307",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908289,"Nordhorn Irisstraße","3309",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908263,"Nordhorn Irisstraße","3311",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",3,3170908303,"Nordhorn Bahnhof","3313",1,,280,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908271,"Nordhorn Irisstraße","3315",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",1,3170908302,"Nordhorn Bahnhof","3317",1,,280,0,0
+"de:nds-noh:noh-31-32:_3",4,3170908299,"Nordhorn Irisstraße","3327",1,,281,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908249,"Nordhorn Bahnhof","9019",1,,286,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908251,"Nordhorn Bahnhof","9027",1,,284,0,0
+"de:nds-noh:noh-31-32:_3",2,3170908252,"Nordhorn Südfriedhof","9146",1,,283,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908225,"Nordhorn Blankeplatz","3068",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908236,"Nordhorn Blankeplatz","3070",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908240,"Nordhorn Blankeplatz","3072",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908248,"Nordhorn Blankeplatz","3074",0,,265,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908241,"Nordhorn Blankeplatz","3076",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908221,"Nordhorn Blankeplatz","3078",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908242,"Nordhorn Blankeplatz","3080",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908222,"Nordhorn Blankeplatz","3082",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908243,"Nordhorn Blankeplatz","3084",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908223,"Nordhorn Blankeplatz","3086",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908244,"Nordhorn Blankeplatz","3088",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908224,"Nordhorn Blankeplatz","3090",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908245,"Nordhorn Blankeplatz","3092",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908232,"Nordhorn Blankeplatz","3094",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908226,"Nordhorn Blankeplatz","3096",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908215,"Nordhorn Blankeplatz","3098",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908233,"Nordhorn Blankeplatz","3100",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908227,"Nordhorn Blankeplatz","3102",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908216,"Nordhorn Blankeplatz","3104",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908238,"Nordhorn Blankeplatz","3106",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908228,"Nordhorn Blankeplatz","3108",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908217,"Nordhorn Blankeplatz","3110",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908239,"Nordhorn Blankeplatz","3112",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908229,"Nordhorn Blankeplatz","3114",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908218,"Nordhorn Blankeplatz","3116",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908234,"Nordhorn Blankeplatz","3118",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908230,"Nordhorn Blankeplatz","3120",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908219,"Nordhorn Blankeplatz","3122",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908235,"Nordhorn Blankeplatz","3124",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908231,"Nordhorn Blankeplatz","3126",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908220,"Nordhorn Blankeplatz","3128",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908247,"Nordhorn Bahnhof","3130",0,,266,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908237,"Nordhorn Blankeplatz","3132",0,,267,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908246,"Nordhorn Bahnhof","3134",0,,266,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908175,"Nordhorn Kloster Frenswegen","3101",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908176,"Nordhorn Kloster Frenswegen","3103",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908177,"Nordhorn Kloster Frenswegen","3105",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908187,"Nordhorn Kloster Frenswegen","3107",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908178,"Nordhorn Kloster Frenswegen","3109",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908188,"Nordhorn Kloster Frenswegen","3111",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908179,"Nordhorn Kloster Frenswegen","3113",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908189,"Nordhorn Kloster Frenswegen","3115",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908180,"Nordhorn Kloster Frenswegen","3117",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908201,"Nordhorn Kloster Frenswegen","3119",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908181,"Nordhorn Kloster Frenswegen","3123",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908202,"Nordhorn Kloster Frenswegen","3125",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908214,"Nordhorn Kloster Frenswegen","3127",1,,268,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908182,"Nordhorn Kloster Frenswegen","3131",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908190,"Nordhorn Kloster Frenswegen","3133",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908213,"Nordhorn Kloster Frenswegen","3135",1,,268,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908207,"Nordhorn Blankeplatz","3137",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908183,"Nordhorn Kloster Frenswegen","3139",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908193,"Nordhorn Kloster Frenswegen","3141",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908191,"Nordhorn Kloster Frenswegen","3143",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908208,"Nordhorn Blankeplatz","3145",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908184,"Nordhorn Kloster Frenswegen","3147",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908199,"Nordhorn Kloster Frenswegen","3149",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908204,"Nordhorn Kloster Frenswegen","3151",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908209,"Nordhorn Blankeplatz","3155",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908203,"Nordhorn Kloster Frenswegen","3157",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908194,"Nordhorn Kloster Frenswegen","3159",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908200,"Nordhorn Kloster Frenswegen","3161",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908210,"Nordhorn Blankeplatz","3167",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908185,"Nordhorn Kloster Frenswegen","3169",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908195,"Nordhorn Kloster Frenswegen","3171",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908192,"Nordhorn Kloster Frenswegen","3173",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908211,"Nordhorn Blankeplatz","3175",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908186,"Nordhorn Kloster Frenswegen","3177",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908198,"Nordhorn Kloster Frenswegen","3179",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908197,"Nordhorn Kloster Frenswegen","3181",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",5,3170908212,"Nordhorn Blankeplatz","3183",1,,269,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908196,"Nordhorn Kloster Frenswegen","3185",1,,271,0,0
+"de:nds-noh:noh-31-31:2_3",3,3170908206,"Nordhorn Bahnhof","3187",1,,270,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908205,"Nordhorn Bahnhof","3189",1,,270,0,0
+"de:nds-noh:noh-31-31:2_3",1,3170908174,"Nordhorn Kloster Frenswegen","3191",1,,272,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908145,"Nordhorn Bahnhof","3000",0,,259,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908159,"Nordhorn Blankeplatz","3002",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908147,"Nordhorn Bahnhof","3004",0,,259,0,0
+"de:nds-noh:noh-31-30:_3",2,3170908143,"Nordhorn Bahnhof","3006",0,,261,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908167,"Nordhorn Blankeplatz","3008",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",5,3170908148,"Nordhorn Bahnhof","3010",0,,259,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908152,"Nordhorn Blankeplatz","3012",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908168,"Nordhorn Blankeplatz","3014",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908153,"Nordhorn Blankeplatz","3016",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908163,"Nordhorn Blankeplatz","3018",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908154,"Nordhorn Blankeplatz","3022",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908169,"Nordhorn Blankeplatz","3024",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908155,"Nordhorn Blankeplatz","3026",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908170,"Nordhorn Blankeplatz","3028",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908156,"Nordhorn Blankeplatz","3030",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908165,"Nordhorn Blankeplatz","3032",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908157,"Nordhorn Blankeplatz","3034",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908164,"Nordhorn Blankeplatz","3036",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908158,"Nordhorn Blankeplatz","3040",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908166,"Nordhorn Blankeplatz","3040",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908171,"Nordhorn Blankeplatz","3042",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908172,"Nordhorn Blankeplatz","3046",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908160,"Nordhorn Blankeplatz","3050",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908173,"Nordhorn Blankeplatz","3052",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908161,"Nordhorn Blankeplatz","3054",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908149,"Nordhorn Blankeplatz","3056",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908162,"Nordhorn Blankeplatz","3058",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908150,"Nordhorn Blankeplatz","3060",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908144,"Nordhorn Bahnhof","3062",0,,260,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908151,"Nordhorn Blankeplatz","3064",0,,258,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908146,"Nordhorn Bahnhof","3066",0,,259,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908118,"Neuenhaus(Dinkel) Bahnhof","3001",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908119,"Neuenhaus(Dinkel) Bahnhof","3003",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908140,"Neuenhaus(Dinkel) Bahnhof","3005",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908120,"Neuenhaus(Dinkel) Bahnhof","3007",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908121,"Neuenhaus(Dinkel) Bahnhof","3009",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908122,"Neuenhaus(Dinkel) Bahnhof","3011",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908141,"Neuenhaus(Dinkel) Bahnhof","3013",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908123,"Neuenhaus(Dinkel) Bahnhof","3015",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908142,"Neuenhaus(Dinkel) Bahnhof","3017",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908124,"Neuenhaus(Dinkel) Bahnhof","3019",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908125,"Neuenhaus(Dinkel) Bahnhof","3021",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908126,"Neuenhaus(Dinkel) Bahnhof","3023",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908111,"Nordhorn Bahnhof","3025",1,,264,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908127,"Neuenhaus(Dinkel) Bahnhof","3027",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908128,"Neuenhaus(Dinkel) Bahnhof","3029",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908129,"Neuenhaus(Dinkel) Bahnhof","3031",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908130,"Neuenhaus(Dinkel) Bahnhof","3033",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908131,"Neuenhaus(Dinkel) Bahnhof","3035",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908132,"Neuenhaus(Dinkel) Bahnhof","3037",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908133,"Neuenhaus(Dinkel) Bahnhof","3039",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908134,"Neuenhaus(Dinkel) Bahnhof","3041",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908135,"Neuenhaus(Dinkel) Bahnhof","3043",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908136,"Neuenhaus(Dinkel) Bahnhof","3045",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908137,"Neuenhaus(Dinkel) Bahnhof","3047",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908113,"Neuenhaus(Dinkel) Bahnhof","3049",1,,263,0,0
+"de:nds-noh:noh-31-30:_3",1,3170908114,"Neuenhaus(Dinkel) Bahnhof","3051",1,,263,0,0
+"de:nds-noh:noh-31-30:_3",5,3170908117,"Neuenhaus(Dinkel) Bahnhof","3059",1,,263,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908116,"Neuenhaus(Dinkel) Bahnhof","3061",1,,263,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908115,"Neuenhaus(Dinkel) Bahnhof","3063",1,,263,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908138,"Neuenhaus(Dinkel) Bahnhof","3065",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908139,"Neuenhaus(Dinkel) Bahnhof","3067",1,,262,0,0
+"de:nds-noh:noh-31-30:_3",3,3170908112,"Nordhorn Bahnhof","3069",1,,264,0,0
+"de:nds-noh:noh-31-970:_3",2,3170900936,"Nordhorn Lange Straße/Altendorfer Straße","9260",0,,254,0,0
+"de:nds-noh:noh-31-970:_3",2,3170900935,"Nordhorn Cohenstraße","9111",1,,255,0,0
+"de:nds-noh:noh-31-970:_3",2,3170900934,"Nordhorn Cohenstraße","9137",1,,256,0,0
+"de:nds-noh:noh-31-970:_3",2,3170900933,"Nordhorn Cohenstraße","9171",1,,257,0,0
+"de:nds-noh:noh-31-969:_3",6,3170900861,"Bad Bentheim-Bardel Missionsgymnasium","1",0,,247,0,0
+"de:nds-noh:noh-31-969:_3",6,3170900862,"Bad Bentheim-Bardel Missionsgymnasium","3",0,,246,0,0
+"de:nds-noh:noh-31-969:_3",6,3170900860,"Bad Bentheim-Bardel Missionsgymnasium","5",0,,248,0,0
+"de:nds-noh:noh-31-969:_3",7,3170900858,"Epe, Gildehauser Damm","10",1,,250,0,0
+"de:nds-noh:noh-31-969:_3",8,3170900853,"Gronau, Kleibergstr.","12",1,,253,0,0
+"de:nds-noh:noh-31-969:_3",8,3170900857,"Epe, Klosterschänke","14",1,,251,0,0
+"de:nds-noh:noh-31-969:_3",8,3170900855,"Gronau, Preußenstr.","16",1,,252,0,0
+"de:nds-noh:noh-31-969:_3",8,3170900859,"Gronau, Bahnhof","2",1,,249,0,0
+"de:nds-noh:noh-31-969:_3",7,3170900854,"Gronau, Preußenstr.","4",1,,252,0,0
+"de:nds-noh:noh-31-969:_3",7,3170900852,"Gronau, Kleibergstr.","6",1,,253,0,0
+"de:nds-noh:noh-31-969:_3",7,3170900856,"Epe, Klosterschänke","8",1,,251,0,0
+"de:nds-noh:noh-31-962:_3",2,3170900647,"Bad Bentheim Zentrum","9216",0,,242,0,0
+"de:nds-noh:noh-31-962:_3",2,3170900645,"Bad Bentheim-Bardel Missionsgymnasium","9101",1,,243,0,0
+"de:nds-noh:noh-31-962:_3",2,3170900643,"Bad Bentheim-Bardel Missionsgymnasium","9145",1,,245,0,0
+"de:nds-noh:noh-31-962:_3",2,3170900644,"Bad Bentheim-Bardel Thölking","9193",1,,244,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900640,"Schüttorf Am Werkshorn/Nordring","9007",0,,232,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900639,"Bad Bentheim","9013",0,,233,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900642,"Bad Bentheim","9021",0,,230,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900641,"Bad Bentheim","9025",0,,231,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900638,"Schüttorf Hallenbad","9049",0,,234,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900637,"Schüttorf Hasenstraße","9230",1,,235,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900631,"Schüttorf Hasenstraße","9234",1,,241,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900634,"Schüttorf Hasenstraße","9238",1,,238,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900635,"Samern Dorfgemeinschaftshaus","9240",1,,237,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900632,"Schüttorf Hasenstraße","9242",1,,240,0,0
+"de:nds-noh:noh-31-961:_3",2,3170900636,"Schüttorf Hasenstraße","9244",1,,236,0,0
+"de:nds-noh:noh-31-961:_3",9,3170900633,"Samern Bodenkamp","9246",1,,239,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900513,"Bad Bentheim Zentrum","9039",0,,221,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900514,"Bad Bentheim Zentrum","9053",0,,220,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900518,"Bad Bentheim","9055",0,,216,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900517,"Gildehaus Schule","9057",0,,217,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900515,"Bad Bentheim Zentrum","9059",0,,219,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900516,"Bad Bentheim","9061",0,,218,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900506,"Sieringhoek Horstmann","9190",1,,227,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900511,"Bad Bentheim-Bardel Kloster","9196",1,,222,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900509,"Bad Bentheim-Bardel Bardelmann-Plaß/Lindemann","9198",1,,224,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900510,"Sieringhoek Horstmann","9200",1,,223,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900508,"Bad Bentheim-Bardel Missionsgymnasium","9202",1,,225,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900505,"Bad Bentheim-Bardel Wendeplatz/Schütte","9206",1,,228,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900512,"Bad Bentheim-Bardel Kloster","9208",1,,222,0,0
+"de:nds-noh:noh-31-960:_3",2,3170900507,"Bad Bentheim-Bardel Wendeplatz/Schütte","9210",1,,226,0,0
+"de:nds-noh:noh-31-960:_3",9,3170900504,"Sieringhoek Horstmann","9302",1,,229,0,0
+"de:nds-noh:noh-31-951:_3",2,3170900191,"Quendorf Schule","9079",0,,213,0,0
+"de:nds-noh:noh-31-951:_3",2,3170900190,"Quendorf Im Slaat","9184",1,,214,0,0
+"de:nds-noh:noh-31-951:_3",9,3170900189,"Quendorf Im Slaat","9188",1,,215,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900034,"Bad Bentheim","9178",0,,205,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900035,"Bad Bentheim","9180",0,,204,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900036,"Quendorf Schule","9182",0,,203,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900033,"Neerlage Isterberg/CVJM-Heim","9141",1,,206,0,0
+"de:nds-noh:noh-31-950:_3",9,3170900031,"Neerlage Isterberg/CVJM-Heim","9167",1,,208,0,0
+"de:nds-noh:noh-31-950:_3",10,3170900028,"Neerlage Isterberg/CVJM-Heim","9169",1,,211,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900029,"Quendorf Im Slaat","9177",1,,210,0,0
+"de:nds-noh:noh-31-950:_3",2,3170900032,"Quendorf Im Slaat","9179",1,,207,0,0
+"de:nds-noh:noh-31-950:_3",9,3170900030,"Neerlage Isterberg/CVJM-Heim","9217",1,,209,0,0
+"de:nds-noh:noh-31-950:_3",9,3170900027,"Neerlage Isterberg/CVJM-Heim","9303",1,,212,0,0
+"de:nds-noh:noh-31-942:_3",2,3170899968,"Brandlecht Schule","9035",0,,201,0,0
+"de:nds-noh:noh-31-942:_3",2,3170899965,"Nordhorn Wehrweg","9174",1,,202,0,0
+"de:nds-noh:noh-31-942:_3",9,3170899967,"Nordhorn Wehrweg","9176",1,,202,0,0
+"de:nds-noh:noh-31-941:_3",2,3170899900,"Nordhorn Zamenhofstraße","9019",0,,196,0,0
+"de:nds-noh:noh-31-941:_3",2,3170899901,"Nordhorn Gymnasium/Jahnstraße","9033",0,,195,0,0
+"de:nds-noh:noh-31-941:_3",2,3170899898,"Brandlecht Post","9162",1,,198,0,0
+"de:nds-noh:noh-31-941:_3",2,3170899899,"Drievorden Alte Schule","9164",1,,197,0,0
+"de:nds-noh:noh-31-941:_3",2,3170899896,"Brandlecht Twentenfeldweg","9166",1,,200,0,0
+"de:nds-noh:noh-31-941:_3",9,3170899897,"Drievorden Alte Schule","9170",1,,199,0,0
+"de:nds-noh:noh-31-940:_3",6,3170899871,"Bad Bentheim-Bardel Missionsgymnasium","9152",0,,182,0,0
+"de:nds-noh:noh-31-940:_3",6,3170899869,"Bad Bentheim-Bardel Missionsgymnasium","9154",0,,184,0,0
+"de:nds-noh:noh-31-940:_3",6,3170899868,"Bad Bentheim-Bardel Missionsgymnasium","9156",0,,185,0,0
+"de:nds-noh:noh-31-940:_3",6,3170899870,"Bad Bentheim-Bardel Missionsgymnasium","9158",0,,183,0,0
+"de:nds-noh:noh-31-940:_3",11,3170899859,"Schüttorf Am Werkshorn/Nordring","6959",1,,192,0,0
+"de:nds-noh:noh-31-940:_3",8,3170899867,"Schüttorf Am Werkshorn/Nordring","9115",1,,186,0,0
+"de:nds-noh:noh-31-940:_3",7,3170899866,"Nordhorn Bahnhof","9201",1,,187,0,0
+"de:nds-noh:noh-31-940:_3",7,3170899862,"Ohne Alte Schule","9203",1,,190,0,0
+"de:nds-noh:noh-31-940:_3",7,3170899863,"Bad Bentheim Nordring","9205",1,,189,0,0
+"de:nds-noh:noh-31-940:_3",7,3170899860,"Engden Jäckering","9209",1,,191,0,0
+"de:nds-noh:noh-31-940:_3",7,3170899864,"Holt und Haar Abzw. Gildehaus","9211",1,,188,0,0
+"de:nds-noh:noh-31-940:_3",8,3170899865,"Holt und Haar Abzw. Gildehaus","9217",1,,188,0,0
+"de:nds-noh:noh-31-940:_3",8,3170899858,"Ohne Alte Schule","9219",1,,193,0,0
+"de:nds-noh:noh-31-940:_3",8,3170899857,"Bad Bentheim Zentrum","9221",1,,194,0,0
+"de:nds-noh:noh-31-940:_3",8,3170899861,"Engden Jäckering","9223",1,,191,0,0
+"de:nds-noh:noh-31-936:_3",2,3170899749,"Nordhorn Bahnhof","9146",0,,179,0,0
+"de:nds-noh:noh-31-936:_3",2,3170899748,"Nordhorn Hannoverstraße","9149",1,,180,0,0
+"de:nds-noh:noh-31-936:_3",9,3170899747,"Nordhorn Pappelstraße","9229",1,,181,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899087,"Nordhorn Schulzentrum Deegfeld","5",0,,175,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899089,"Nordhorn Zamenhofstraße","9027",0,,173,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899088,"Nordhorn Stadtflurschule","9031",0,,174,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899085,"Nordhorn Tierpark","9138",1,,176,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899084,"Nordhorn Melleschweg","9140",1,,177,0,0
+"de:nds-noh:noh-31-932:_3",2,3170899083,"Nordhorn Baldersdiek","9142",1,,178,0,0
+"de:nds-noh:noh-31-931:_3",2,3170898995,"Nordhorn Schulzentrum Deegfeld","9134",0,,169,0,0
+"de:nds-noh:noh-31-931:_3",9,3170898991,"Nordhorn Schievinkstraße","9027",1,,172,0,0
+"de:nds-noh:noh-31-931:_3",2,3170898994,"Nordhorn Schievinkstraße","9139",1,,170,0,0
+"de:nds-noh:noh-31-931:_3",2,3170898992,"Nordhorn Schievinkstraße","9175",1,,171,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898003,"Neuenhaus(Dinkel) Schulzentrum","7009",0,,158,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898008,"Neuenhaus(Dinkel) Schulzentrum","9118",0,,153,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898004,"Neuenhaus(Dinkel) Schulzentrum","9120",0,,157,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898005,"Neuenhaus(Dinkel) Bahnhof","9122",0,,156,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898007,"Neuenhaus(Dinkel) Schulzentrum","9124",0,,154,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898006,"Neuenhaus(Dinkel) Schulzentrum","9126",0,,155,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898009,"Neuenhaus(Dinkel) Schulzentrum","9132",0,,152,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897990,"Osterwald(b Neuenhaus) Otten","2117",1,,167,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898000,"Osterwald Hohenkörben Wendeplatz","7018",1,,160,0,0
+"de:nds-noh:noh-31-922:_3",2,3170898002,"Georgsdorf Ostende/Grenzweg","7024",1,,159,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897999,"Osterwald Hohenkörben Wendeplatz","7026",1,,160,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897995,"Lugthoek","9121",1,,163,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897992,"Osterwald(b Neuenhaus) Bahnhof","9123",1,,165,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897998,"Osterwald(b Neuenhaus) Bahnhof","9151",1,,161,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897993,"Veldhausen Schule","9153",1,,164,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897994,"Lugthoek","9155",1,,163,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897997,"Osterwald(b Neuenhaus) Bahnhof","9215",1,,162,0,0
+"de:nds-noh:noh-31-922:_3",9,3170897996,"Osterwald(b Neuenhaus) Bahnhof","9223",1,,162,0,0
+"de:nds-noh:noh-31-922:_3",2,3170897991,"Esche Veldgaar","9305",1,,166,0,0
+"de:nds-noh:noh-31-922:_3",9,3170898001,"Hohenkörben Bakkertskamp/Grovenstiege","9307",1,,168,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897984,"Hoogstede kath. Kirche","2006",0,,142,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897986,"Emlichheim Schulzentrum","9017",0,,140,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897985,"Emlichheim Schulzentrum","9023",0,,141,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897989,"Emlichheim Schulzentrum","9029",0,,137,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897988,"Emlichheim Schulzentrum","9067",0,,138,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897987,"Großringe Schule","9089",0,,139,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897974,"Kleinringe Arends","9094",1,,151,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897977,"Scheerhorn Scheerhorner Eck","9096",1,,148,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897983,"Berge(Hoogstede) Bahnübergang","9098",1,,143,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897976,"Kleinringe Arends","9100",1,,149,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897978,"Scheerhorn Krzg. Ölstraße/Brook","9104",1,,147,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897980,"Osterwald(b Neuenhaus) Brücke zum Ölbahnhof","9106",1,,145,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897979,"Großringe Helweg","9108",1,,146,0,0
+"de:nds-noh:noh-31-921:_3",2,3170897982,"Großringe Helweg","9112",1,,144,0,0
+"de:nds-noh:noh-31-921:_3",9,3170897975,"Großringe Helweg","9114",1,,150,0,0
+"de:nds-noh:noh-31-921:_3",9,3170897981,"Großringe Helweg","9116",1,,144,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897923,"Emlichheim Grundschule","9014",0,,133,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897924,"Emlichheim Schulzentrum","9045",0,,132,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897922,"Echteler Brinkmann","9076",1,,134,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897921,"Echteler Brinkmann","9078",1,,134,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897920,"Tinholt Grüppenhoek","9080",1,,135,0,0
+"de:nds-noh:noh-31-920:_3",2,3170897919,"Tinholt Grüppenhoek","9086",1,,136,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896191,"Itterbeck Post","1010",0,,125,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896192,"Uelsen Waterfall","1016",0,,124,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896196,"Uelsen Schulzentrum","9064",0,,120,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896198,"Uelsen Schulzentrum","9066",0,,118,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896194,"Uelsen Schulzentrum","9068",0,,122,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896193,"Uelsen Schulzentrum","9070",0,,123,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896195,"Itterbeck Grundschule","9072",0,,121,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896197,"Uelsen Schulzentrum","9074",0,,119,0,0
+"de:nds-noh:noh-31-917:_3",9,3170896190,"Itterbeck Vordergrundweg","9107",1,,126,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896186,"Itterbeck Hinderink","9133",1,,128,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896188,"Getelo Höllmann","9135",1,,127,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896189,"Itterbeck Vordergrundweg","9147",1,,126,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896187,"Getelo Höllmann","9185",1,,127,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896185,"Itterbeck Hinderink","9187",1,,129,0,0
+"de:nds-noh:noh-31-917:_3",2,3170896183,"Wielen(b Neuenhaus) Roelfs","9213",1,,131,0,0
+"de:nds-noh:noh-31-917:_3",9,3170896184,"Getelomoor Oelerink","9221",1,,130,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896179,"Neuenhaus-Grasdorf Abzw. Lage","3006",0,,111,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896178,"Neuenhaus(Dinkel) Bahnhof","9009",0,,112,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896181,"Neuenhaus(Dinkel) Bahnhof","9011",0,,110,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896180,"Neuenhaus(Dinkel) Bahnhof","9083",0,,110,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896182,"Neuenhaus(Dinkel) Bahnhof","9085",0,,109,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896177,"Neuenhaus(Dinkel) Schulzentrum","9309",0,,113,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896175,"Halle(b Neuenhaus) Alte Schule","9050",1,,114,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896172,"Neuenhaus-Grasdorf Strootdiek/Birkenstraße","9052",1,,115,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896174,"Halle(b Neuenhaus) Alte Schule","9054",1,,114,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896171,"Neuenhaus-Grasdorf Strootdiek/Birkenstraße","9056",1,,115,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896176,"Halle(b Neuenhaus) Alte Schule","9058",1,,114,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896173,"Neuenhaus-Grasdorf Strootdiek/Birkenstraße","9060",1,,115,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896170,"Neuenhaus-Grasdorf Strootdiek/Birkenstraße","9062",1,,116,0,0
+"de:nds-noh:noh-31-916:_3",2,3170896169,"Lage (Dinkel) Grundschule","9308",1,,117,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896166,"Neuenhaus(Dinkel) Schulzentrum","9005",0,,104,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896168,"Uelsen Schulzentrum","9043",0,,103,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896165,"Neuenhaus(Dinkel) Schulzentrum","9087",0,,105,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896167,"Uelsen Schulzentrum","9093",0,,103,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896164,"Uelsen Schulzentrum","9040",1,,106,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896163,"Uelsen Lemke/Ziegelei","9044",1,,107,0,0
+"de:nds-noh:noh-31-915:_3",2,3170896162,"Uelsen Uelser Holt","9048",1,,108,0,0
+"de:nds-noh:noh-31-914:_3",2,3170896142,"Uelsen Schulzentrum","9065",0,,101,0,0
+"de:nds-noh:noh-31-914:_3",2,3170896143,"Uelsen Schulzentrum","9095",0,,100,0,0
+"de:nds-noh:noh-31-914:_3",2,3170896140,"Hardingen Abzw. Krankenhaus","9036",1,,102,0,0
+"de:nds-noh:noh-31-914:_3",2,3170896141,"Hardingen Abzw. Krankenhaus","9038",1,,102,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896136,"Uelsen Waterfall","1012",0,,92,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896138,"Uelsen Schulzentrum","9037",0,,90,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896137,"Uelsen Schulzentrum","9041",0,,91,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896139,"Uelsen Schulzentrum","9091",0,,90,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896133,"Wielen(b Neuenhaus) Zollhäuser","9022",1,,95,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896129,"Wilsum Deponie","9024",1,,99,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896134,"Wielen(b Neuenhaus) Zollhäuser","9026",1,,94,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896135,"Wilsum Deponie","9028",1,,93,0,0
+"de:nds-noh:noh-31-913:_3",2,3170896132,"Wielen(b Neuenhaus) Stroeve","9030",1,,96,0,0
+"de:nds-noh:noh-31-913:_3",9,3170896131,"Wielen(b Neuenhaus) Roelfs","9032",1,,97,0,0
+"de:nds-noh:noh-31-913:_3",9,3170896130,"Wilsum Maatmann","9034",1,,98,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896102,"Emlichheim Ringer Straße","2008",0,,78,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896101,"Emlichheim Bahnhof","2010",0,,79,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896100,"Emlichheim Schulzentrum","9010",0,,80,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896099,"Emlichheim Schulzentrum","9012",0,,81,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896098,"Laar(Vechte) Schule","9018",0,,82,0,0
+"de:nds-noh:noh-31-912:_3",9,3170896090,"Vorwald(Vechte) Bahnhof","2061",1,,89,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896094,"Vorwald(Vechte) Bahnhof","9117",1,,85,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896093,"Heesterkante Veldm. Scholten","9119",1,,86,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896095,"Heesterkante Veldm. Scholten","9129",1,,84,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896096,"Vorwald(Vechte) Bahnhof","9131",1,,83,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896092,"Echteler Schoemaker","9173",1,,87,0,0
+"de:nds-noh:noh-31-912:_3",2,3170896091,"Vorwald(Vechte) Unterführung","9197",1,,88,0,0
+"de:nds-noh:noh-31-911:_3",2,3170896089,"Emlichheim Schulzentrum","9047",0,,74,0,0
+"de:nds-noh:noh-31-911:_3",2,3170896087,"Emlichheim Otten Wartehalle","9004",1,,76,0,0
+"de:nds-noh:noh-31-911:_3",2,3170896086,"Emlichheim Otten Wartehalle","9006",1,,77,0,0
+"de:nds-noh:noh-31-911:_3",2,3170896088,"Emlichheim Otten Wartehalle","9008",1,,75,0,0
+"de:nds-noh:noh-31-62:_3",2,3170830151,"Holt und Haar Wiener Straße","6206",1,,73,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828142,"Wettringen, Kirche","10",0,,65,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828143,"Wettringen, Kirche","12",0,,65,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828141,"Wettringen, Kirche","14",0,,65,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828144,"Wettringen, Kirche","16",0,,65,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828137,"Wettringen, Kirche","2",0,,67,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828138,"Wettringen, Kirche","4",0,,67,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828139,"Wettringen, Kirche","6",0,,67,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828140,"Wettringen, Kirche","8",0,,66,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828130,"Schüttorf Annaheim","1",1,,71,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828135,"Schüttorf Alte Post","11",1,,68,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828136,"Schüttorf Alte Post","13",1,,68,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828134,"Schüttorf Alte Post","15",1,,68,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828131,"Ohne Dorf","17",1,,70,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828128,"Schüttorf Annaheim","3",1,,72,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828129,"Schüttorf Annaheim","5",1,,72,0,0
+"de:nds-noh:noh-31-61:_3",12,3170828132,"Ohne Dorf","7",1,,69,0,0
+"de:nds-noh:noh-31-61:_3",1,3170828133,"Schüttorf Alte Post","9",1,,68,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826354,"Gronau, Bahnhof","6002",0,,46,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826349,"Gildehaus Schule","6008",0,,48,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826348,"Gronau, Bahnhof","6014",0,,49,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826356,"Gronau, Bahnhof","6018",0,,45,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826357,"Gronau, Bahnhof","6020",0,,44,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826370,"Gronau, Bahnhof","6022",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826369,"Gronau, Bahnhof","6028",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826372,"Gronau, Bahnhof","6030",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826352,"Bad Bentheim-Bardel Missionsgymnasium","6034",0,,47,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826360,"Gronau, Bahnhof","6036",0,,44,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826351,"Bad Bentheim-Bardel Missionsgymnasium","6038",0,,47,0,0
+"de:nds-noh:noh-31-60:_3",13,3170826374,"Gronau, Bahnhof","6040",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826373,"Gronau, Bahnhof","6042",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826359,"Gronau, Bahnhof","6048",0,,44,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826350,"Bad Bentheim-Bardel Missionsgymnasium","6050",0,,47,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826368,"Gronau, Bahnhof","6052",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826358,"Gronau, Bahnhof","6058",0,,44,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826353,"Bad Bentheim-Bardel Missionsgymnasium","6060",0,,47,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826376,"Gronau, Bahnhof","6062",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826371,"Gronau, Bahnhof","6064",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826375,"Gronau, Bahnhof","6072",0,,43,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826313,"Bad Bentheim","6001",1,,57,0,0
+"de:nds-noh:noh-31-60:_3",1,3170826336,"Schüttorf Bahnhof","6003",1,,51,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826314,"Bad Bentheim","6005",1,,56,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826343,"Schüttorf Hessenweg","6013",1,,59,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826320,"Schüttorf Industriestraße/Nordring","6017",1,,53,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826316,"Schüttorf Quendorfer See","6019",1,,55,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826317,"Schüttorf Quendorfer See","6019",1,,55,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826334,"Schüttorf Quendorfer See","6025",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826322,"Schüttorf Industriestraße/Nordring","6027",1,,53,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826328,"Schüttorf Quendorfer See","6029",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826342,"Schüttorf Industriestraße/Nordring","6031",1,,60,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826339,"Schüttorf Alte Post","6033",1,,63,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826345,"Schüttorf Industriestraße/Nordring","6035",1,,50,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826335,"Schüttorf Quendorfer See","6037",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826332,"Schüttorf Quendorfer See","6039",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826340,"Bad Bentheim Friedhof","6043",1,,62,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826338,"Bad Bentheim","6045",1,,64,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826319,"Schüttorf Industriestraße/Nordring","6047",1,,53,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826346,"Schüttorf Industriestraße/Nordring","6049",1,,50,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826318,"Bad Bentheim","6053",1,,54,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826341,"Schüttorf Industriestraße/Nordring","6059",1,,61,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826347,"Schüttorf Industriestraße/Nordring","6061",1,,50,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826330,"Schüttorf Quendorfer See","6063",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826329,"Schüttorf Quendorfer See","6065",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",2,3170826344,"Bad Bentheim Zentrum","6069",1,,58,0,0
+"de:nds-noh:noh-31-60:_3",5,3170826331,"Schüttorf Quendorfer See","6077",1,,52,0,0
+"de:nds-noh:noh-31-60:_3",3,3170826333,"Schüttorf Quendorfer See","6101",1,,52,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747525,"Schüttorf Bahnhof","5000",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747512,"Schüttorf Bahnhof","5002",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747520,"Schüttorf Bahnhof","5004",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747534,"Schüttorf Bahnhof","5006",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747513,"Schüttorf Bahnhof","5008",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747526,"Schüttorf Bahnhof","5010",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747514,"Schüttorf Bahnhof","5012",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747535,"Schüttorf Bahnhof","5014",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747523,"Schüttorf Bahnhof","5016",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747527,"Schüttorf Bahnhof","5018",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747515,"Schüttorf Bahnhof","5020",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747532,"Schüttorf Bahnhof","5022",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747521,"Schüttorf Bahnhof","5024",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747528,"Schüttorf Bahnhof","5026",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747516,"Schüttorf Bahnhof","5028",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",2,3170747511,"Schüttorf Bahnhof","5030",0,,35,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747533,"Schüttorf Bahnhof","5032",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747517,"Schüttorf Bahnhof","5034",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747529,"Schüttorf Bahnhof","5036",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",9,3170747510,"Schüttorf Bahnhof","5038",0,,36,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747518,"Schüttorf Bahnhof","5040",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747530,"Schüttorf Bahnhof","5042",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747519,"Schüttorf Bahnhof","5044",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747531,"Schüttorf Bahnhof","5046",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747522,"Schüttorf Bahnhof","5048",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747536,"Schüttorf Bahnhof","5050",0,,33,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747524,"Schüttorf Bahnhof","5052",0,,34,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747509,"Schüttorf Bahnhof","5054",0,,37,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747496,"Isterberg","5001",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",4,3170747507,"Isterberg","5003",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",2,3170747481,"Isterberg","5005",1,,41,0,0
+"de:nds-noh:noh-31-50:_3",2,3170747480,"Quendorf Bahnhof","5005",1,,42,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747483,"Isterberg","5007",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747497,"Isterberg","5009",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747484,"Isterberg","501",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747498,"Isterberg","5013",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747485,"Isterberg","5015",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747499,"Isterberg","5017",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747494,"Isterberg","5019",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747508,"Isterberg","5021",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747486,"Isterberg","5023",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747500,"Isterberg","5025",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747487,"Isterberg","5027",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747501,"Isterberg","5029",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747488,"Isterberg","5031",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747502,"Isterberg","5033",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747489,"Isterberg","5035",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747503,"Isterberg","5037",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747490,"Isterberg","5039",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747504,"Isterberg","5041",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747491,"Isterberg","5043",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747505,"Isterberg","5045",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747492,"Isterberg","5047",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747506,"Isterberg","5049",1,,38,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747493,"Isterberg","5051",1,,39,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747482,"Quendorf Siedlung","5053",1,,40,0,0
+"de:nds-noh:noh-31-50:_3",1,3170747495,"Isterberg","5055",1,,38,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649909,"Bad Bentheim Zentrum","4000",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649935,"Bad Bentheim Zentrum","4002",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649910,"Bad Bentheim Zentrum","4004",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649917,"Bad Bentheim Zentrum","4006",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649911,"Bad Bentheim Zentrum","4008",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649918,"Bad Bentheim Zentrum","4010",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649912,"Bad Bentheim Zentrum","4012",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649919,"Bad Bentheim Zentrum","4014",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649913,"Bad Bentheim Zentrum","4016",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649920,"Bad Bentheim Zentrum","4018",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",4,3170649903,"Bad Bentheim Zentrum","4020",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",2,3170649898,"Bad Bentheim Zentrum","4020",0,,28,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649921,"Bad Bentheim Zentrum","4022",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649928,"Bad Bentheim Zentrum","4024",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",4,3170649904,"Bad Bentheim Zentrum","4026",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",2,3170649899,"Bad Bentheim Zentrum","4026",0,,28,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649922,"Bad Bentheim Zentrum","4028",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649929,"Bad Bentheim Zentrum","4030",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",4,3170649905,"Bad Bentheim Zentrum","4032",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",2,3170649900,"Bad Bentheim Zentrum","4032",0,,28,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649930,"Bad Bentheim Zentrum","4036",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",4,3170649906,"Bad Bentheim Zentrum","4038",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",2,3170649901,"Bad Bentheim Zentrum","4038",0,,28,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649931,"Bad Bentheim Zentrum","4040",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649924,"Bad Bentheim Zentrum","4042",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",4,3170649907,"Bad Bentheim Zentrum","4044",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",2,3170649902,"Bad Bentheim Zentrum","4044",0,,28,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649932,"Bad Bentheim Zentrum","4046",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649925,"Bad Bentheim Zentrum","4048",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649914,"Bad Bentheim Zentrum","4050",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649933,"Bad Bentheim Zentrum","4052",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649926,"Bad Bentheim Zentrum","4054",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649915,"Bad Bentheim Zentrum","4056",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649934,"Bad Bentheim Zentrum","4058",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649927,"Bad Bentheim Zentrum","4060",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649916,"Bad Bentheim Zentrum","4062",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649896,"Bad Bentheim Zentrum","4064",0,,29,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649895,"Bad Bentheim Zentrum","4066",0,,29,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649894,"Bad Bentheim Zentrum","4070",0,,29,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649908,"Bad Bentheim Zentrum","4072",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649923,"Bad Bentheim Zentrum","4084",0,,27,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649860,"Nordhorn Bahnhof","4003",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649893,"Nordhorn Bahnhof","4005",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649863,"Nordhorn Bahnhof","4007",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649875,"Nordhorn Bahnhof","4009",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649864,"Nordhorn Bahnhof","4011",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649876,"Nordhorn Bahnhof","4013",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649865,"Nordhorn Bahnhof","4015",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649877,"Nordhorn Bahnhof","4017",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649866,"Nordhorn Bahnhof","4019",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649878,"Nordhorn Bahnhof","4021",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649867,"Nordhorn Bahnhof","4023",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649879,"Nordhorn Bahnhof","4025",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649886,"Nordhorn Bahnhof","4027",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649868,"Nordhorn Bahnhof","4029",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649880,"Nordhorn Bahnhof","4031",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649887,"Nordhorn Bahnhof","4033",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649869,"Nordhorn Bahnhof","4035",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649881,"Nordhorn Bahnhof","4037",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649888,"Nordhorn Bahnhof","4039",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649870,"Nordhorn Bahnhof","4041",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649889,"Nordhorn Bahnhof","4043",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649882,"Nordhorn Bahnhof","4045",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649871,"Nordhorn Bahnhof","4047",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649890,"Nordhorn Bahnhof","4049",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649883,"Nordhorn Bahnhof","4051",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649872,"Nordhorn Bahnhof","4053",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649884,"Nordhorn Bahnhof","4057",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649873,"Nordhorn Bahnhof","4059",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649892,"Nordhorn Bahnhof","4061",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649885,"Nordhorn Bahnhof","4063",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649874,"Nordhorn Bahnhof","4065",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649862,"Nordhorn Bahnhof","4067",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649861,"Nordhorn Bahnhof","4069",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",3,3170649859,"Nordhorn Bahnhof","4071",1,,31,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649857,"Nordhorn Bahnhof","4075",1,,32,0,0
+"de:nds-noh:noh-31-40:_3",5,3170649891,"Nordhorn Bahnhof","455",1,,30,0,0
+"de:nds-noh:noh-31-40:_3",1,3170649858,"Nordhorn Bahnhof","473",1,,31,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643822,"Denekamp (NL) Centrum/Eurowerft","1",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643827,"Denekamp (NL) Centrum/Eurowerft","11",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643828,"Denekamp (NL) Centrum/Eurowerft","13",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643829,"Denekamp (NL) Centrum/Eurowerft","15",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643823,"Denekamp (NL) Centrum/Eurowerft","3",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643824,"Denekamp (NL) Centrum/Eurowerft","5",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643825,"Denekamp (NL) Centrum/Eurowerft","7",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643826,"Denekamp (NL) Centrum/Eurowerft","9",0,,25,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643818,"Nordhorn Am Sportpark","10",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643819,"Nordhorn Am Sportpark","12",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643820,"Nordhorn Am Sportpark","14",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643821,"Nordhorn Am Sportpark","16",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643814,"Nordhorn Am Sportpark","2",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643815,"Nordhorn Am Sportpark","4",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643816,"Nordhorn Am Sportpark","6",1,,26,0,0
+"de:nds-noh:noh-31-38:_3",1,3170643817,"Nordhorn Am Sportpark","8",1,,26,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613138,"Nordhorn Pflegezentrum","12",0,,22,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613137,"Nordhorn Pflegezentrum","14",0,,22,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613135,"Nordhorn Pflegezentrum","15",0,,23,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613136,"Nordhorn Pflegezentrum","9",0,,22,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613134,"Brandlecht Vischeringstraße","10",1,,24,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613131,"Brandlecht Vischeringstraße","11",1,,24,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613133,"Brandlecht Vischeringstraße","13",1,,24,0,0
+"de:nds-noh:noh-31-33:_3",1,3170613132,"Brandlecht Vischeringstraße","16",1,,24,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467359,"Neuenhaus(Dinkel) Bahnhof","2004",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467412,"Neuenhaus(Dinkel) Schulzentrum","2006",0,,11,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467414,"Neuenhaus(Dinkel) Schulzentrum","2008",0,,9,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467411,"Neuenhaus(Dinkel) Bahnhof","2010",0,,12,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467394,"Neuenhaus(Dinkel) Bahnhof","2012",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467360,"Neuenhaus(Dinkel) Bahnhof","2014",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467410,"Neuenhaus(Dinkel) Schulzentrum","2016",0,,13,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467409,"Neuenhaus(Dinkel) Bahnhof","2018",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467378,"Neuenhaus(Dinkel) Bahnhof","2020",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467361,"Neuenhaus(Dinkel) Bahnhof","2022",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467413,"Neuenhaus(Dinkel) Schulzentrum","2024",0,,10,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467379,"Neuenhaus(Dinkel) Bahnhof","2026",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467395,"Neuenhaus(Dinkel) Bahnhof","2028",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467362,"Neuenhaus(Dinkel) Bahnhof","2030",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467380,"Neuenhaus(Dinkel) Bahnhof","2032",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467396,"Neuenhaus(Dinkel) Bahnhof","2034",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467363,"Neuenhaus(Dinkel) Bahnhof","2036",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467381,"Neuenhaus(Dinkel) Bahnhof","2038",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467397,"Neuenhaus(Dinkel) Bahnhof","2040",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467364,"Neuenhaus(Dinkel) Bahnhof","2042",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467382,"Neuenhaus(Dinkel) Bahnhof","2044",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467398,"Neuenhaus(Dinkel) Bahnhof","2046",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467365,"Neuenhaus(Dinkel) Bahnhof","2048",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467383,"Neuenhaus(Dinkel) Bahnhof","2050",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467399,"Neuenhaus(Dinkel) Bahnhof","2052",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467366,"Neuenhaus(Dinkel) Bahnhof","2054",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467371,"Neuenhaus(Dinkel) Bahnhof","2054",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467384,"Neuenhaus(Dinkel) Bahnhof","2056",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467400,"Neuenhaus(Dinkel) Bahnhof","2058",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467367,"Neuenhaus(Dinkel) Bahnhof","2060",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467385,"Neuenhaus(Dinkel) Bahnhof","2062",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467401,"Neuenhaus(Dinkel) Bahnhof","2064",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467368,"Neuenhaus(Dinkel) Bahnhof","2066",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467386,"Neuenhaus(Dinkel) Bahnhof","2068",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467402,"Neuenhaus(Dinkel) Bahnhof","2070",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467369,"Neuenhaus(Dinkel) Bahnhof","2072",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467387,"Neuenhaus(Dinkel) Bahnhof","2074",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467403,"Neuenhaus(Dinkel) Bahnhof","2076",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467370,"Neuenhaus(Dinkel) Bahnhof","2078",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467388,"Neuenhaus(Dinkel) Bahnhof","2080",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467404,"Neuenhaus(Dinkel) Bahnhof","2082",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467389,"Neuenhaus(Dinkel) Bahnhof","2086",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467405,"Neuenhaus(Dinkel) Bahnhof","2088",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467372,"Neuenhaus(Dinkel) Bahnhof","2090",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467390,"Neuenhaus(Dinkel) Bahnhof","2092",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467406,"Neuenhaus(Dinkel) Bahnhof","2094",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467373,"Neuenhaus(Dinkel) Bahnhof","2096",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467391,"Neuenhaus(Dinkel) Bahnhof","2098",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467407,"Neuenhaus(Dinkel) Bahnhof","2100",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467374,"Neuenhaus(Dinkel) Bahnhof","2102",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467392,"Neuenhaus(Dinkel) Bahnhof","2104",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467408,"Neuenhaus(Dinkel) Bahnhof","2106",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467377,"Neuenhaus(Dinkel) Bahnhof","2108",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467376,"Neuenhaus(Dinkel) Bahnhof","2112",0,,14,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467358,"Veldhausen Schule","9016",0,,15,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467325,"Hoogstede kath. Kirche","2003",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467303,"Hoogstede kath. Kirche","2003",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467353,"Emlichheim Bahnhof","2005",1,,19,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467316,"Hoogstede kath. Kirche","2007",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467334,"Hoogstede kath. Kirche","2009",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467304,"Hoogstede kath. Kirche","2009",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467317,"Hoogstede kath. Kirche","2011",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467332,"Hoogstede kath. Kirche","2013",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",4,3170467345,"Hoogstede kath. Kirche","2015",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467305,"Hoogstede kath. Kirche","2015",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467318,"Hoogstede kath. Kirche","2017",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467333,"Hoogstede kath. Kirche","2019",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467349,"Hoogstede kath. Kirche","202",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467348,"Hoogstede kath. Kirche","2021",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467319,"Hoogstede kath. Kirche","2023",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467335,"Hoogstede kath. Kirche","2025",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467320,"Hoogstede kath. Kirche","2029",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467336,"Hoogstede kath. Kirche","2031",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467350,"Hoogstede kath. Kirche","2033",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467352,"Emlichheim Schulzentrum","2035",1,,20,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467321,"Hoogstede kath. Kirche","2037",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467337,"Hoogstede kath. Kirche","2039",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467351,"Hoogstede kath. Kirche","2041",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467354,"Emlichheim Schulzentrum","2043",1,,18,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467322,"Hoogstede kath. Kirche","2045",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467338,"Hoogstede kath. Kirche","2047",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467306,"Hoogstede kath. Kirche","2049",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467355,"Emlichheim Bahnhof","2051",1,,17,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467323,"Hoogstede kath. Kirche","2053",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467339,"Hoogstede kath. Kirche","2055",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467307,"Hoogstede kath. Kirche","2057",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467356,"Emlichheim Bahnhof","2059",1,,16,0,0
+"de:nds-noh:noh-31-20:_3",2,3170467357,"Emlichheim Bahnhof","2063",1,,16,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467324,"Hoogstede kath. Kirche","2065",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467340,"Hoogstede kath. Kirche","2067",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467308,"Hoogstede kath. Kirche","2069",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467326,"Hoogstede kath. Kirche","2071",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467341,"Hoogstede kath. Kirche","2073",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467309,"Hoogstede kath. Kirche","2075",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467327,"Hoogstede kath. Kirche","2077",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467342,"Hoogstede kath. Kirche","2079",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467310,"Hoogstede kath. Kirche","2081",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467328,"Hoogstede kath. Kirche","2083",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467343,"Hoogstede kath. Kirche","2085",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467311,"Hoogstede kath. Kirche","2087",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467329,"Hoogstede kath. Kirche","2089",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467344,"Hoogstede kath. Kirche","2091",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467312,"Hoogstede kath. Kirche","2093",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467330,"Hoogstede kath. Kirche","2095",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467346,"Hoogstede kath. Kirche","2097",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467313,"Hoogstede kath. Kirche","2099",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467331,"Hoogstede kath. Kirche","2101",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467347,"Hoogstede kath. Kirche","2103",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467314,"Hoogstede kath. Kirche","2105",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467300,"Hoogstede kath. Kirche","2107",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",5,3170467302,"Hoogstede kath. Kirche","2109",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467298,"Hoogstede kath. Kirche","2111",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",3,3170467301,"Hoogstede kath. Kirche","2113",1,,21,0,0
+"de:nds-noh:noh-31-20:_3",1,3170467299,"Hoogstede kath. Kirche","2115",1,,21,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217733,"Neuenhaus(Dinkel) Bahnhof","068",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217709,"Neuenhaus(Dinkel) Bahnhof","1000",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217695,"Neuenhaus(Dinkel) Bahnhof","1002",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217694,"Neuenhaus(Dinkel) Bahnhof","1006",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217710,"Neuenhaus(Dinkel) Bahnhof","1008",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217742,"Neuenhaus(Dinkel) Bahnhof","1010",0,,1,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217690,"Neuenhaus(Dinkel) Bahnhof","1012",0,,4,0,0
+"de:nds-noh:noh-31-10:_3",4,3170217691,"Neuenhaus(Dinkel) Bahnhof","1014",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217741,"Neuenhaus(Dinkel) Bahnhof","1016",0,,2,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217740,"Neuenhaus(Dinkel) Bahnhof","1018",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217692,"Neuenhaus(Dinkel) Bahnhof","1020",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217711,"Neuenhaus(Dinkel) Bahnhof","1022",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217693,"Neuenhaus(Dinkel) Bahnhof","1024",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217712,"Neuenhaus(Dinkel) Bahnhof","1026",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217726,"Neuenhaus(Dinkel) Bahnhof","1028",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217713,"Neuenhaus(Dinkel) Bahnhof","1030",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217727,"Neuenhaus(Dinkel) Bahnhof","1032",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217696,"Neuenhaus(Dinkel) Bahnhof","1034",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217714,"Neuenhaus(Dinkel) Bahnhof","1036",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217728,"Neuenhaus(Dinkel) Bahnhof","1038",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217697,"Neuenhaus(Dinkel) Bahnhof","1040",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217715,"Neuenhaus(Dinkel) Bahnhof","1042",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217729,"Neuenhaus(Dinkel) Bahnhof","1044",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217698,"Neuenhaus(Dinkel) Bahnhof","1046",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217716,"Neuenhaus(Dinkel) Bahnhof","1048",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217730,"Neuenhaus(Dinkel) Bahnhof","1050",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217699,"Neuenhaus(Dinkel) Bahnhof","1052",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217717,"Neuenhaus(Dinkel) Bahnhof","1054",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217731,"Neuenhaus(Dinkel) Bahnhof","1056",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217700,"Neuenhaus(Dinkel) Bahnhof","1058",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217718,"Neuenhaus(Dinkel) Bahnhof","1060",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217732,"Neuenhaus(Dinkel) Bahnhof","1062",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217701,"Neuenhaus(Dinkel) Bahnhof","1064",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217719,"Neuenhaus(Dinkel) Bahnhof","1066",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217702,"Neuenhaus(Dinkel) Bahnhof","1070",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217720,"Neuenhaus(Dinkel) Bahnhof","1072",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217734,"Neuenhaus(Dinkel) Bahnhof","1074",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217703,"Neuenhaus(Dinkel) Bahnhof","1076",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217721,"Neuenhaus(Dinkel) Bahnhof","1078",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217735,"Neuenhaus(Dinkel) Bahnhof","1080",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217704,"Neuenhaus(Dinkel) Bahnhof","1082",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217722,"Neuenhaus(Dinkel) Bahnhof","1084",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217736,"Neuenhaus(Dinkel) Bahnhof","1086",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217705,"Neuenhaus(Dinkel) Bahnhof","1088",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217723,"Neuenhaus(Dinkel) Bahnhof","1090",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217737,"Neuenhaus(Dinkel) Bahnhof","1092",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217706,"Neuenhaus(Dinkel) Bahnhof","1094",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217724,"Neuenhaus(Dinkel) Bahnhof","1096",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217738,"Neuenhaus(Dinkel) Bahnhof","1098",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217707,"Neuenhaus(Dinkel) Bahnhof","1100",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217725,"Neuenhaus(Dinkel) Bahnhof","1102",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217739,"Neuenhaus(Dinkel) Bahnhof","1104",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217708,"Neuenhaus(Dinkel) Bahnhof","1106",0,,3,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217652,"Emlichheim Bahnhof","1001",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217636,"Emlichheim Bahnhof","1003",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217653,"Emlichheim Bahnhof","1005",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217637,"Emlichheim Bahnhof","1007",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217654,"Emlichheim Bahnhof","1009",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217667,"Emlichheim Bahnhof","1011",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217638,"Emlichheim Bahnhof","1013",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217655,"Emlichheim Bahnhof","1015",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217668,"Emlichheim Bahnhof","1017",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217639,"Emlichheim Bahnhof","1019",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217656,"Emlichheim Bahnhof","1021",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217669,"Emlichheim Bahnhof","1023",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217640,"Emlichheim Bahnhof","1025",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217657,"Emlichheim Bahnhof","1027",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217670,"Emlichheim Bahnhof","1029",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217641,"Emlichheim Bahnhof","1031",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217688,"Uelsen Schulzentrum","1033",1,,6,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217658,"Emlichheim Bahnhof","1035",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217671,"Emlichheim Bahnhof","1037",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217642,"Emlichheim Bahnhof","1039",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217687,"Uelsen Schulzentrum","1043",1,,6,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217659,"Emlichheim Bahnhof","1045",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217672,"Emlichheim Bahnhof","1047",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217643,"Emlichheim Bahnhof","1049",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",2,3170217689,"Uelsen Markt","1051",1,,5,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217660,"Emlichheim Bahnhof","1053",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217673,"Emlichheim Bahnhof","1055",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217644,"Emlichheim Bahnhof","1057",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217661,"Emlichheim Bahnhof","1059",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217674,"Emlichheim Bahnhof","1061",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217645,"Emlichheim Bahnhof","1063",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217662,"Emlichheim Bahnhof","1067",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217675,"Emlichheim Bahnhof","1069",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217646,"Emlichheim Bahnhof","1071",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217663,"Emlichheim Bahnhof","1073",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217676,"Emlichheim Bahnhof","1075",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217647,"Emlichheim Bahnhof","1077",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217664,"Emlichheim Bahnhof","1079",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217677,"Emlichheim Bahnhof","1081",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217648,"Emlichheim Bahnhof","1083",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217665,"Emlichheim Bahnhof","1087",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217678,"Emlichheim Bahnhof","1089",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217649,"Emlichheim Bahnhof","1091",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217666,"Emlichheim Bahnhof","1093",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217679,"Emlichheim Bahnhof","1095",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217650,"Emlichheim Bahnhof","1097",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217682,"Emlichheim Bahnhof","1099",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217685,"Emlichheim Bahnhof","1101",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217651,"Emlichheim Bahnhof","1103",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217683,"Emlichheim Bahnhof","1105",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",5,3170217686,"Emlichheim Bahnhof","1107",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217680,"Emlichheim Bahnhof","1109",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",3,3170217684,"Emlichheim Bahnhof","1111",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",1,3170217681,"Emlichheim Bahnhof","1113",1,,7,0,0
+"de:nds-noh:noh-31-10:_3",9,3170217635,"Uelsen Waterfall","1115",1,,8,0,0
+"de:hvv:5044:_3",14,3161398976,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",15,3161398975,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",15,3161398974,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",15,3161398973,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398972,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398971,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398970,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398969,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398968,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398967,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398966,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398965,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398964,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398963,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398962,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398961,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",16,3161398960,"Lüneburg, Bei der Pferdehütte","",0,,7186,0,0
+"de:hvv:5044:_3",14,3161398959,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",15,3161398958,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",15,3161398957,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",15,3161398956,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398955,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398954,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398953,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398952,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398951,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398950,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398949,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398948,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398947,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398946,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398945,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398944,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:5044:_3",16,3161398943,"Bf. Lüneburg (ZOB)","",1,,7187,0,0
+"de:hvv:363:_3",17,3148532164,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532163,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532149,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532148,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532147,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398884,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532146,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398883,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532145,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398882,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532144,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398881,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532143,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398880,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532142,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398879,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532141,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398874,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532162,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398873,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532161,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398872,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532160,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398871,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532159,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398870,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532158,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532157,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398869,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532156,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398868,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532155,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398867,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532154,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398866,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532153,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398865,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532152,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398864,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532151,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398863,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532150,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398862,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398861,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398860,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398859,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398858,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398857,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398856,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398855,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398854,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398853,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398852,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398851,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398850,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398849,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398848,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398847,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398846,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",18,3161398845,"Barsbüttel, Möbel Höffner","",0,,7184,0,0
+"de:hvv:363:_3",17,3148532203,"Barsbüttel, Möbel Höffner","",0,,7184,0,0

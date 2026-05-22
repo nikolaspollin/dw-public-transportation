@@ -19,7 +19,7 @@
 CREATE TABLE Staging_Population (
     reporting_date         VARCHAR(15), -- I. d. R. immer der selbe Wert in allen Zeilen
     spatial_identification VARCHAR(8),  -- Kennziffer kann maximal 8 Zeichen lang sein (wegen DG Wert muss String verwendet werden)
-    location_name          VARCHAR(50), -- Je nach Stufe bspw. "Deutschland", "Kelheim, Landkreis"
+    location_name          VARCHAR(100), -- Je nach Stufe bspw. "Deutschland", "Kelheim, Landkreis"
     age_group_name         VARCHAR(40),
     total_population       INTEGER,
     male_population        INTEGER,
@@ -90,16 +90,16 @@ CREATE TABLE Staging_Spatial_Classification (
 CREATE TABLE Staging_Extended_Stops (
     SeqNo VARCHAR(10), -- In CSV eindeutige ID
     Type CHAR(1), -- Art der Haltestelle (deckt sich mit location_type in stops.txt)
-    DHID VARCHAR(30), -- Deutschlandweit eindeutige Haltestellen-ID
-    Parent VARCHAR(30), -- Enthält DHID des Parents
+    DHID VARCHAR(60), -- Deutschlandweit eindeutige Haltestellen-ID
+    Parent VARCHAR(60), -- Enthält DHID des Parents
     Name VARCHAR(80),
-    Latitude VARCHAR(15), -- Nachkommastellen per Komma statt Punkt getrennt (daher String)
-    Longitude VARCHAR(15),
+    Latitude VARCHAR(25), -- Nachkommastellen per Komma statt Punkt getrennt (daher String)
+    Longitude VARCHAR(25),
     MunicipalityCode VARCHAR(8), -- AGS
     Municipality VARCHAR(60), -- Gemeindename
     DistrictCode VARCHAR(5),
     District VARCHAR(60),
-    Description VARCHAR(100),
+    Description VARCHAR(200),
     Authority VARCHAR(30),
     DelfiName VARCHAR(80),
     SEV VARCHAR(15)
@@ -110,13 +110,13 @@ CREATE TABLE Staging_Extended_Stops (
 
 -- stop_code ignoriert, da Wert nie gefüllt wird
 CREATE TABLE Staging_Stops (
-    stop_id VARCHAR(30), -- Identisch zu DHID in Staging_Extended_Stops
+    stop_id VARCHAR(60), -- Identisch zu DHID in Staging_Extended_Stops
     stop_name VARCHAR(80), -- Wesentlicher Name
-    stop_description VARCHAR(100), -- Zusätzliche beschreibende Informationen
-    stop_lat VARCHAR(15), -- Längengrad, gespeichert als String, mit Punt als Nachkommastellen-Trennsymbol
-    stop_lon VARCHAR(15),
+    stop_description VARCHAR(200), -- Zusätzliche beschreibende Informationen
+    stop_lat VARCHAR(25), -- Längengrad, gespeichert als String, mit Punt als Nachkommastellen-Trennsymbol
+    stop_lon VARCHAR(25),
     location_type INTEGER, -- Enum Wert für Art der Haltestelle
-    parent_station VARCHAR(30), -- Enthält stop_id bzw. DHID des Parents (Leeres Feld, falls kein Parent existiert)
+    parent_station VARCHAR(60), -- Enthält stop_id bzw. DHID des Parents (Leeres Feld, falls kein Parent existiert)
     wheelchair_boarding INTEGER, -- Enum Wert
     platform_code VARCHAR(30)
 );
@@ -124,7 +124,7 @@ CREATE TABLE Staging_Stops (
 -- stop_headsign ist immer leer, daher ignoriert
 CREATE TABLE Staging_Stop_Times (
     trip_id INTEGER, -- FK zu trips.txt
-    stop_id VARCHAR(30), -- FK auf stops.txt (enthält DHID)
+    stop_id VARCHAR(60), -- FK auf stops.txt (enthält DHID)
     stop_sequence INTEGER, -- Eindeutige Nummerierung eines Halts innerhalb einer Fahrt
     pickup_type INTEGER,
     drop_off_type INTEGER,
@@ -137,7 +137,7 @@ CREATE TABLE Staging_Trips (
     route_id VARCHAR(60), -- FK auf routes.txt
     service_id INTEGER, -- FK auf calender.txt
     trip_id INTEGER,
-    trip_headsign VARCHAR(50),
+    trip_headsign VARCHAR(100),
     trip_short_name VARCHAR(10),
     direction_id INTEGER,
     wheelchair_accessible INTEGER,
@@ -176,7 +176,7 @@ CREATE TABLE Staging_Routes (
     route_id VARCHAR(60),
     agency_id INTEGER,
     route_short_name VARCHAR(50),
-    route_long_name VARCHAR(100),
+    route_long_name VARCHAR(250),
     route_type INTEGER
 );
 
