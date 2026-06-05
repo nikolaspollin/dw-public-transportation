@@ -15,6 +15,12 @@ IMPORT INTO Staging_Routes (route_id, agency_id, route_short_name, route_long_na
     (1, 2, 3, 4, 5) ROW SEPARATOR = 'CRLF' SKIP = 1 IGNORE CERTIFICATE
     ERRORS INTO error_tbl REJECT LIMIT UNLIMITED;
 
+-- Gehört schematisch zu Routes
+IMPORT INTO Staging_GTFS_Extended_Type_Mapping (route_type, main_category_desc, sub_category_desc)
+    FROM LOCAL CSV FILE '/Users/niki/Projekte/SQL/DW/dw-public-transportation/data_sources/gtfs_extended_types_mapping.csv'
+    ROW SEPARATOR = 'LF' COLUMN SEPARATOR = ';' SKIP = 1 IGNORE CERTIFICATE
+    ERRORS INTO error_tbl REJECT LIMIT UNLIMITED;
+
 
 IMPORT INTO Staging_Agencies (agency_id, agency_name)
     FROM LOCAL CSV FILE '/Users/niki/Projekte/SQL/DW/dw-public-transportation/data_sources/agency.txt'
@@ -64,7 +70,13 @@ IMPORT INTO Staging_Population (reporting_date, spatial_identification, location
     ERRORS INTO error_tbl REJECT LIMIT UNLIMITED;
 
 
-IMPORT INTO Staging_Spatial_Classification (gem2024, gem_name, bez_gem, fl24, krs2024, krs_name, rbg2024, rgb_name, rlg2024, rlg_name, rs52024, rs5_name, gtu2024, gtu_name, bld2024, bld_name)
+IMPORT INTO Staging_Population_Age_Groups (gender, age_group_code, age_group_desc, min_age, max_age)
+    FROM LOCAL CSV FILE '/Users/niki/Projekte/SQL/DW/dw-public-transportation/data_sources/population_dim_input.csv'
+    ROW SEPARATOR = 'LF' COLUMN SEPARATOR = ';' SKIP = 1 IGNORE CERTIFICATE
+    ERRORS INTO error_tbl REJECT LIMIT UNLIMITED;
+
+
+IMPORT INTO Staging_Spatial_Classification (gem2024, gem_name, bez_gem, fl24, krs2024, krs_name, rbg2024, rbg_name, rlg2024, rlg_name, rs52024, rs5_name, gtu2024, gtu_name, bld2024, bld_name)
     FROM LOCAL CSV FILE '/Users/niki/Projekte/SQL/DW/dw-public-transportation/data_sources/spatial_classification_flat.csv'
     (1, 3, 4, 6, 13, 14, 33, 34, 37, 38, 41, 42, 57, 58, 91, 92) ROW SEPARATOR = 'LF' COLUMN SEPARATOR = ';' SKIP = 1 IGNORE CERTIFICATE
     ERRORS INTO error_tbl REJECT LIMIT UNLIMITED;

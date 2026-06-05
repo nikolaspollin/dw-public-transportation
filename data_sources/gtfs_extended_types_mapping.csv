@@ -1,0 +1,82 @@
+route_type_code;main_category_desc;sub_category_desc
+0;Straßenbahn;Straßenbahn (Standard)
+1;U-Bahn;U-Bahn (Standard)
+2;Zug;Zug (Standard)
+3;Bus;Bus (Standard)
+4;Fähre;Fähre (Standard)
+5;Seilbahn;Kabelstraßenbahn (Standard)
+6;Seilbahn;Luftseilbahn (Standard)
+7;Standseilbahn;Standseilbahn (Standard)
+11;Bus;Oberleitungsbus (Standard)
+12;Einschienenbahn;Einschienenbahn (Standard)
+100;Zug;Zug (Allgemein)
+101;Zug;Hochgeschwindigkeitszug
+102;Zug;Fernverkehrszug
+103;Zug;Interregionalzug
+104;Zug;Autozug
+105;Zug;Nachtzug
+106;Zug;Regionalzug
+107;Zug;Touristenzug
+108;Zug;Pendelzug
+109;Zug;S-Bahn
+110;Zug;Schienenersatzverkehr
+111;Zug;Sonderzug
+112;Zug;Güterzug / LKW-Transport
+113;Zug;Alle Zugarten
+114;Zug;Grenzüberschreitender Zug
+115;Zug;Fahrzeugtransportzug
+116;Zug;Zahnradbahn
+117;Zug;Zusatzzug
+200;Reisebus;Reisebus (Allgemein)
+201;Reisebus;Reisebus (International)
+202;Reisebus;Reisebus (National)
+204;Reisebus;Reisebus (Regional)
+208;Reisebus;Reisebus (Pendlerbus)
+209;Reisebus;Alle Reisebusse
+400;Stadtbahn;Stadtbahn / U-Bahn (Allgemein)
+401;Stadtbahn;U-Bahn (Metro)
+402;Stadtbahn;Untergrundbahn
+403;Stadtbahn;Stadtbahn
+404;Stadtbahn;Alle Stadtbahnen
+405;Stadtbahn;Einschienenbahn
+700;Bus;Bus (Allgemein)
+701;Bus;Regionalbus
+702;Bus;Schnellbus
+703;Bus;Haltebus (Stopping Bus)
+704;Bus;Lokalbus / Stadtbus
+705;Bus;Nachtbus
+706;Bus;Postbus
+707;Bus;Behindertenbus
+708;Bus;Mobilitätsbus
+709;Bus;Mobilitätsbus (Registrierte)
+710;Bus;Sightseeing-Bus
+711;Bus;Shuttlebus
+712;Bus;Schulbus
+713;Bus;Schul- und Linienbus
+714;Bus;Schienenersatzverkehr (Bus)
+715;Bus;Rufbus / AST
+716;Bus;Alle Busarten
+800;Oberleitungsbus;Oberleitungsbus (Allgemein)
+900;Straßenbahn;Straßenbahn (Allgemein)
+901;Straßenbahn;Stadt-Straßenbahn
+902;Straßenbahn;Lokal-Straßenbahn
+903;Straßenbahn;Überland-Straßenbahn
+904;Straßenbahn;Sightseeing-Straßenbahn
+905;Straßenbahn;Shuttle-Straßenbahn
+906;Straßenbahn;Alle Straßenbahnen
+1000;Wassertransport;Wassertransport (Allgemein)
+1100;Flugzeug;Flugverkehr (Allgemein)
+1200;Fähre;Fährbetrieb (Allgemein)
+1300;Seilbahn;Luftseilbahn (Allgemein)
+1400;Standseilbahn;Standseilbahn (Allgemein)
+1500;Taxi;Taxi (Allgemein)
+1501;Taxi;Sammeltaxi
+1502;Taxi;Wassertaxi
+1503;Taxi;Schienentaxi
+1504;Taxi;Fahrradtaxi
+1505;Taxi;Lizenziertes Taxi
+1506;Taxi;Privater Mietwagen
+1507;Taxi;Alle Taxiarten
+1700;Sonstiges;Sonstiger Service
+1701;Seilbahn;Kabelstraßenbahn
+1702;Sonstiges;Pferdekutsche

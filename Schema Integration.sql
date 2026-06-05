@@ -26,6 +26,15 @@ CREATE TABLE Staging_Population (
     female_population      INTEGER
 );
 
+CREATE TABLE Staging_Population_Age_Groups (
+    gender VARCHAR(8), -- Männlich, Weiblich
+    age_group_code VARCHAR(10), -- bspw. 00_BIS_17
+    age_group_desc VARCHAR(30),
+    -- Für einfachere Queries
+    min_age INTEGER,
+    max_age INTEGER
+);
+
 
 -- Fahrzeugbestand (Fahrzeugzulassungen FZ 3)
 
@@ -68,7 +77,7 @@ CREATE TABLE Staging_Spatial_Classification (
     BLD2024 INTEGER, -- Bundesland-Kennziffer
     BLD_NAME VARCHAR(30),
     RBG2024 INTEGER,
-    RGB_NAME VARCHAR(40),
+    RBG_NAME VARCHAR(40),
     RLG2024 INTEGER,
     RLG_NAME VARCHAR(20),
     RS52024 INTEGER,
@@ -178,6 +187,17 @@ CREATE TABLE Staging_Routes (
     route_short_name VARCHAR(50),
     route_long_name VARCHAR(250),
     route_type INTEGER
+);
+
+
+-- Enthält die Definitionen der einzelnen Routing Types entsprechend der Dokumentation.
+-- In einem richtigen DW würde es sich anbieten, die Transportart als eigene Dimension bzw. Hierarchie-Stufe einer Dimension zu modellieren.
+-- Mapping File nutzt als Grundlage Google Doku (https://developers.google.com/transit/gtfs/reference/extended-route-types?hl=de).
+-- File wurde von KI generiert.
+CREATE TABLE Staging_GTFS_Extended_Type_Mapping (
+    route_type INTEGER,
+    main_category_desc VARCHAR(20),
+    sub_category_desc VARCHAR(50)
 );
 
 CREATE TABLE Staging_Agencies (

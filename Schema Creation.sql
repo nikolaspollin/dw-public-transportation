@@ -3,18 +3,24 @@
 OPEN SCHEMA NIKOLAS_POLLIN;
 
 -- Zeiten, die über service_id referenziert werden, gehören separater Dimension an
+-- Es werden im Data Warehouse einerseits neue Surrogate-Keys benutzt, um sich von den DELPHI IDs zu entkoppeln.
+-- Wird dort etwas an der Struktur verändert oder ggf. IDs doppelt benutzt, wäre das andernfalls ein Problem für das DW.
+-- Allerdings muss für den ETL Prozess die alte trip_id weiter existieren, damit abgeglichen werden kann, welche Trips schon ins DW geladen wurden.
 CREATE TABLE Dim_Trips (
-    trip_id INTEGER PRIMARY KEY,
+    trip_id INTEGER IDENTITY PRIMARY KEY, -- Surrogatschlüssel für DWH Nutzung
+    gtfs_trip_id INTEGER, -- Altschlüssel aus GTFS Daten (für ETL Prozess relevant)
     trip_headsign VARCHAR(100),
-    trip_short_name VARCHAR(50),
-    direction VARCHAR(10), -- Enum Werte VORWÄRTS, RÜCKWÄRTS
+    trip_short_name VARCHAR(10),
+    direction VARCHAR(15), -- Enum Werte Hinrichtung, Rückrichtung
     wheelchair_accessible BOOLEAN,
     bikes_allowed BOOLEAN,
 
     -- Linie -> Hierarchiestufe
     route_short_name VARCHAR(50),
-    route_long_name VARCHAR(100),
-    transport_mode VARCHAR(20),
+    route_long_name VARCHAR(250),
+    transport_mode_code INTEGER,
+    transport_mode_main_category VARCHAR(20),
+    transport_mode_sub_category VARCHAR(50),
     -- ///
 
     -- Betreiber -> Hierarchiestufe
@@ -24,7 +30,7 @@ CREATE TABLE Dim_Trips (
 
 
 CREATE TABLE Dim_Vehicle_Type (
-    vehicle_type_id INTEGER PRIMARY KEY,
+    vehicle_type_id INTEGER IDENTITY PRIMARY KEY,
     type VARCHAR(20), -- bspw. Motorrad, LKW, PKW
     commercial BOOLEAN
 );
@@ -32,9 +38,9 @@ CREATE TABLE Dim_Vehicle_Type (
 
 -- parent_station Attribut wurde vorerst weggelassen (kann notfalls noch nachgetragen werden)
 CREATE TABLE Dim_Stations (
-    station_id INTEGER PRIMARY KEY, -- Surrogatschlüssel
+    station_id INTEGER IDENTITY PRIMARY KEY, -- Surrogatschlüssel
     municipality_code INTEGER REFERENCES Dim_Municipalities(municipality_code),
-    dh_id VARCHAR(30), -- Deutschlandweite ID der Haltestellen
+    gtfs_stop_id VARCHAR(60), -- Zur eindeutigen Identifizierung im ETL Prozess (entspricht in den meisten Fällen der DHID)
     name VARCHAR(80), -- Name der Haltestelle
     description VARCHAR(100), -- Zusätzliche Informationen zur Haltestelle
     type VARCHAR(40),
@@ -75,9 +81,9 @@ CREATE TABLE Dim_Municipalities (
 
 
 CREATE TABLE Dim_Population (
-    population_group_id INTEGER PRIMARY KEY,
+    population_group_id INTEGER IDENTITY PRIMARY KEY,
     gender VARCHAR(8), -- Männlich, Weiblich
-    age_group_code VARCHAR(10), -- bspw. 00_TO_17
+    age_group_code VARCHAR(10), -- bspw. 00_BIS_17
     age_group_desc VARCHAR(30),
     -- Für einfachere Queries
     min_age INTEGER,
