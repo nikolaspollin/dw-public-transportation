@@ -8,8 +8,6 @@
  Außerdem sind die GTFS Daten normalisiert und auch die anderen Quellen enthalten keine Zeilen-Duplikate.
  */
 
--- TODO MERGE Befehl aus Übungsblatt 4 Exercise 2 fehlt noch
-
 -- Agencies
 
 SELECT * FROM Staging_Agencies;
@@ -373,7 +371,7 @@ WITH Pre_Aggregated_Stop_Times AS (
         -- Per Lead kann nächster Wert in einer Query abgefragt werden
         -- Falls keine nächste Haltestellen-Zeit mehr gefunden wird, wird NULL returned
         LEAD(time_to_seconds(SST.ARRIVAL_TIME)) OVER (PARTITION BY SST.TRIP_ID ORDER BY SST.STOP_SEQUENCE) AS NEXT_ARRIVAL_TIME_SEC
-    FROM Staging_Stop_Times SST LIMIT 2000000 -- Konkrete Haltestellen-Stops müssen limited werden, da sonst Speicheraufwand von ~180 GB entsteht
+    FROM Staging_Stop_Times SST LIMIT 5000000 -- Konkrete Haltestellen-Stops müssen limited werden, da sonst Speicheraufwand von ~180 GB entsteht
 )
 SELECT DS.STATION_ID, DT.TRIP_ID, SD."date", AST.STOP_SEQUENCE, (AST.DROP_OFF_TYPE = 1), (AST.PICKUP_TYPE = 1),
         AST.ARRIVAL_TIME_SEC, AST.DEPARTURE_TIME_SEC, AST.DURATION_OF_STAY_SEC,
@@ -392,4 +390,36 @@ SELECT DS.STATION_ID, DT.TRIP_ID, SD."date", AST.STOP_SEQUENCE, (AST.DROP_OFF_TY
 
 -- Durch Date Explosion zu große Menge an Daten:
 -- [40001] GlobalTransactionRollback msg: Quota for schema 'NIKOLAS_POLLIN' exceeded! Schema quota is set to 8589934592 bytes and attempted new raw size is 182310495765 bytes..
--- => Statt ~45 Millionen Halten werden nur ~2 Millionen betrachtet
+-- => Statt ~45 Millionen Halten werden nur ~5 Millionen betrachtet
+
+
+
+-- /// Merge Befehl ///
+
+MERGE INTO Dim_Trips AS target
+USING (
+        SELECT T.TRIP_ID, T.TRIP_HEADSIGN, T.TRIP_SHORT_NAME,
+               CASE WHEN T.DIRECTION_ID = 1 THEN 'Rückrichtung' ELSE 'Hinrichtung' END as DIRECTION,
+               (T.WHEELCHAIR_ACCESSIBLE = 1) AS WHEELCHAIR_ACCESSIBLE, (T.BIKES_ALLOWED = 1) AS BIKES_ALLOWED, R.ROUTE_SHORT_NAME, R.ROUTE_LONG_NAME, ETM.ROUTE_TYPE,
+               ETM.MAIN_CATEGORY_DESC, ETM.SUB_CATEGORY_DESC, A.AGENCY_NAME
+        FROM Staging_Trips T
+                 JOIN Staging_Routes R ON T.ROUTE_ID = R.ROUTE_ID
+                 JOIN Staging_GTFS_Extended_Type_Mapping ETM ON R.ROUTE_TYPE = ETM.ROUTE_TYPE
+                 JOIN Staging_Agencies A ON R.AGENCY_ID = A.AGENCY_ID
+    ) AS src
+ON target.GTFS_TRIP_ID = src.TRIP_ID
+WHEN MATCHED THEN
+    UPDATE SET target.TRIP_HEADSIGN = src.TRIP_HEADSIGN, target.TRIP_SHORT_NAME = src.TRIP_SHORT_NAME, target.DIRECTION  = src.DIRECTION,
+               target.WHEELCHAIR_ACCESSIBLE = src.WHEELCHAIR_ACCESSIBLE, target.BIKES_ALLOWED = src.BIKES_ALLOWED, target.ROUTE_SHORT_NAME = src.ROUTE_SHORT_NAME,
+               target.ROUTE_LONG_NAME = src.ROUTE_LONG_NAME, target.TRANSPORT_MODE_CODE = src.ROUTE_TYPE, target.TRANSPORT_MODE_MAIN_CATEGORY = src.MAIN_CATEGORY_DESC,
+               target.TRANSPORT_MODE_SUB_CATEGORY = src.SUB_CATEGORY_DESC, target.AGENCY_NAME = src.AGENCY_NAME
+WHEN NOT MATCHED THEN
+    INSERT (GTFS_TRIP_ID, TRIP_HEADSIGN, TRIP_SHORT_NAME, DIRECTION, WHEELCHAIR_ACCESSIBLE,
+            BIKES_ALLOWED, ROUTE_SHORT_NAME, ROUTE_LONG_NAME, TRANSPORT_MODE_CODE,
+            TRANSPORT_MODE_MAIN_CATEGORY, TRANSPORT_MODE_SUB_CATEGORY, AGENCY_NAME)
+    VALUES (
+               src.TRIP_ID, src.TRIP_HEADSIGN, src.TRIP_SHORT_NAME, src.DIRECTION,
+               src.WHEELCHAIR_ACCESSIBLE, src.BIKES_ALLOWED, src.ROUTE_SHORT_NAME, src.ROUTE_LONG_NAME,
+               src.ROUTE_TYPE, src.MAIN_CATEGORY_DESC,
+               src.SUB_CATEGORY_DESC, src.AGENCY_NAME
+           );
