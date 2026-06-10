@@ -113,8 +113,24 @@ TODO
 
 ```sql
 -- Query 1: GROUPING SETS / ROLLUP / CUBE
--- 🖊️ 
-SELECT 🖊️ 
+-- Wie viele Motorräder sind in den jeweiligen Gemeinden, Kreisen & Bundesländern zugelassen (hierarchisch aufgeschlüsselt)?
+
+SELECT
+        -- Lesbarer Wert für NULL Werte bei gröberer Hierarchiestufe
+        coalesce(DM.STATE_NAME, 'Alle Bundesländer') AS Bundesland,
+        coalesce(DM.COUNTY_NAME, 'Alle Kreise') AS Kreis,
+        coalesce(DM.NAME, 'Alle Gemeinden') AS Gemeinde,
+        SUM(FRV.AMOUNT) AS Anzahl_Motorräder 
+    FROM Fact_Registered_Vehicles FRV
+    JOIN Dim_Vehicle_Type DVT ON FRV.VEHICLE_TYPE_ID = DVT.VEHICLE_TYPE_ID
+    JOIN Dim_Municipalities DM ON FRV.MUNICIPALITY_CODE = DM.MUNICIPALITY_CODE
+    -- In den Daten gibt es keine kommerziellen Motorräder, daher hier kein Aggregieren der verschiedenen Types
+    WHERE DVT.TYPE = 'Motorrad' AND FRV."date" = '2025-01-01'
+    GROUP BY ROLLUP ( 
+        (DM.STATE_CODE, DM.STATE_NAME), 
+        (DM.COUNTY_CODE, DM.COUNTY_NAME), 
+        (DM.MUNICIPALITY_CODE, DM.NAME) 
+  );
 ```
 ```sql
 -- Query 2: Window Function (no ranking) 
@@ -138,14 +154,39 @@ SELECT 🖊️
 ```
 ```sql
 -- Query 6: 
--- 🖊️ 
-SELECT 🖊️ 
+-- Wie hoch war 2024 die durchschnittliche PKW Dichte in ländlichen Gegenden im Vergleich zu Mittel- bis Großstädten?
+
+WITH 
+    Aggregated_Vehicles AS (
+      -- Alle PKWs für jede Gemeinde
+      SELECT MUNICIPALITY_CODE, SUM(FRV.AMOUNT) AS Pkw_Gesamt
+        FROM Fact_Registered_Vehicles FRV
+        JOIN Dim_Vehicle_Type DVT ON FRV.VEHICLE_TYPE_ID = DVT.VEHICLE_TYPE_ID
+        WHERE TYPE = 'PKW' AND "date" = '2025-01-01' 
+        GROUP BY FRV.MUNICIPALITY_CODE
+    ), 
+    -- Alle Einwohner für jede Gemeinde
+    Aggregated_Population AS (
+        SELECT MUNICIPALITY_CODE, SUM(AMOUNT) AS Bevölkerung_Gesamt
+        FROM Fact_Census FC 
+        WHERE "date" = '2024-12-31'
+        GROUP BY MUNICIPALITY_CODE
+    )
+-- Gruppieren nach Städtisch & Ländlich und passende Durchschnitte ausrechnen
+SELECT 
+        CASE 
+            WHEN SPATIAL_TYPOLOGY_CODE > 53 THEN 'Ländliche Regionen'
+            ELSE 'Mittel- bis Großstädte'
+        END AS Gemeindeart,
+        (SUM(AV.Pkw_Gesamt) * 1000 / SUM(AP.Bevölkerung_Gesamt)) AS "PKWs / 1000 Einwohner",
+        (SUM(AV.Pkw_Gesamt) / SUM(DM.AREA_KM2)) AS "PKWs / km2"
+    FROM Aggregated_Vehicles AV
+    JOIN Aggregated_Population AP ON AV.MUNICIPALITY_CODE = AP.MUNICIPALITY_CODE
+    JOIN Dim_Municipalities DM ON AV.MUNICIPALITY_CODE = DM.MUNICIPALITY_CODE 
+    GROUP BY 1;
 ```
 ```sql
 -- Query 7: 
 -- 🖊️ 
 SELECT 🖊️ 
 ```
-
-
-**Please check: Have you written your name on the very top?**
